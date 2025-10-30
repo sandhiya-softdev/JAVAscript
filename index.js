@@ -2,14 +2,16 @@
 // var a=10;
 // var b=30;
 // console.log(a+b); 
-2.{
+2.
+{
     console.log(a);
 }
 // a is not defined
 // That means we didnot give declation value
 
 
-3.{
+3.
+{
     var a=10;
 }
 console.log(a);
@@ -54,6 +56,15 @@ console.log(a);
 1.
 const a=10;
 console.log(a);
+// result will be 10
+
+2.
+{
+    const a=10;
+}
+console.log(a);
+// this is not work out bacause this is block scope
+
 
 
 
