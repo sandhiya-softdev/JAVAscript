@@ -100,8 +100,35 @@
 // let fname=true;
 // console.log(fname);
 
+// const a=false;
+// console.log(a, (typeof a));
+// we are going to see this which type of this
 
-const 
+
+
+// 4.null
+
+// let a=null;
+// console.log(a);
+// null means nothings
+
+
+// let a=null;
+// console.log(a, (typeof a));
+// Null we can consider like a objects
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
