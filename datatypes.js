@@ -79,9 +79,29 @@
 // console.log(a+b+c+d+e);
 
 
-let a=1.0;
+// let a=1.0;
+// console.log(a);
 
 
+
+// let a=1.4;
+// b=3.0;
+// console.log(a+b);
+// we can use this decimal number also
+
+
+
+// const a=1;
+// console.log(a, (typeof a));
+// we can see this type also
+
+// 3.boolean
+
+// let fname=true;
+// console.log(fname);
+
+
+const 
 
 
 
