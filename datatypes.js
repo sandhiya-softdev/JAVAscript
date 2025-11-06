@@ -59,6 +59,31 @@
 // we can know that which type of  the we are using in this datatypes
 
 
+// 2.Number
+
+// let a=10;
+// console.log(a);
+
+
+// let a=10;
+// b=30;
+// console.log(b);
+
+
+
+// let a=10;
+// b=90;
+// c=38;
+// d=10;
+// e=10;
+// console.log(a+b+c+d+e);
+
+
+let a=1.0;
+
+
+
+
 
 
 
