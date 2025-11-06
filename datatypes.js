@@ -118,6 +118,48 @@
 // Null we can consider like a objects
 
 
+// 5.undefined
+
+// let a;
+// console.log(a);
+// because we don't give any value of the declation of the value of the time
+
+// let a;
+// console.log(a, (typeof a));
+
+// non primitive datatypes
+// 1.array
+// 2.object
+// 3.symbols
+
+// 1.array
+// an array is a special type of object used to store multiple values in a single variable
+// we can use only []
+// and the starts 0
+
+
+// let a=["sandhiya", "bhuvana", "jagatheesh"]
+// console.log(a);
+
+// we want to only one i want
+// let a=["sandhiya", 175784, true," dshasog"]
+// console.log(a[1]);
+
+// remember array is an object
+
+
+// 2.object
+// object starts with the {} with the object
+// we will give that String, num, boolean 
+
+
+
+ 
+
+
+
+
+
 
 
 
