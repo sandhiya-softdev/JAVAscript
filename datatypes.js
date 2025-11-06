@@ -153,6 +153,17 @@
 // we will give that String, num, boolean 
 
 
+// let simpleobj= {
+//     fname:"sandhiya",
+//     age: 45,
+//     married: false
+//     };
+//     console.log(simpleobj.fname);
+    
+
+    
+
+
 
  
 
