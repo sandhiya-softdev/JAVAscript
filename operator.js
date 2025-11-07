@@ -17,6 +17,56 @@
 
 
 // 1.addition
+// let a=10;
+// let b=30;
+// console.log(a+b);
+
+// let a=10;
+// let b=20;
+// c=(a+b);
+// console.log(c);
+
+// 2.subtraction
+// let a=10;
+// let b=20;
+// console.log(a-b);
+// let a=30;
+// let b=20;
+// let c=(a-b);
+// console.log(c);
+
+
+// 3.multiplication
+// let a=10;
+// let b=30;
+// console.log(a*b);
+
+
+// let a=10;
+// let b=30;
+// c=(a*b);
+// console.log(c);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
