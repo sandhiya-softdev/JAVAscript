@@ -49,6 +49,29 @@
 
 
 
+// let a=10;
+// let b=20;
+// console.log(a%b);
+
+// Exponentation
+// let a=4*4;
+// console.log(a);
+
+
+// increment
+a=5;
+let a=++a;
+console.log(a);
+
+
+
+
+
+
+
+
+
+
 
 
 
