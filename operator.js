@@ -4,5 +4,24 @@
 
 // There are three operator
 // 1.arithmetic operator
+// 2.comparsion operator
+// 3.logical operator
+
+// 1.Arithmetic operator
+// Addition
+// subtraction
+// multiplication
+// division
+// moduls
+// exponentation operator
+
+
+// 1.addition
+
+
+
+
+
+
 
 
