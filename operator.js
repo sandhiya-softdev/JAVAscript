@@ -59,10 +59,15 @@
 
 
 // increment
-a=5;
-let a=++a;
-console.log(a);
+// let a = 5;
+// a = ++a;
+// console.log(a);
 
+
+
+// let a = 5;
+// a = --a;
+// console.log(a);
 
 
 
