@@ -235,14 +235,14 @@
 
 
 // OBJECT
-let vehicles= {
-    vehiclestype: "four wheeler",
-    brand: "honda",
-    price: "2000",
-    fueltype: "peseol"
-}
-console.log(vehicles);
-console.log(vehicles.brand);
+// let vehicles= {
+//     vehiclestype: "four wheeler",
+//     brand: "honda",
+//     price: "2000",
+//     fueltype: "peseol"
+// }
+// console.log(vehicles);
+// console.log(vehicles.brand);
 
 
 
