@@ -123,6 +123,13 @@
 // Relational operator
 // greather than
 
+// let a=10;
+// let b=80;
+// console.log(a>b);
+
+
+
+
 
 
 
