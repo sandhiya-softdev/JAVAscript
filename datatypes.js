@@ -239,9 +239,12 @@ let vehicles= {
     vehiclestype: "four wheeler",
     brand: "honda",
     price: "2000",
-    fueltyp: "peseol"
+    fueltype: "peseol"
 }
 console.log(vehicles);
+console.log(vehicles.brand);
+
+
 
 
 
