@@ -90,9 +90,10 @@
 // console.log(a==b);
 // this is not same one is 10 one is80
 
-let a=20;
-let b=20;
-console.log(a==b);
+// let a=20;
+// let b=20;
+// console.log(a==b);
+// this is equal because 20 and 20
 
 
 
