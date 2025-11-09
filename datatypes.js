@@ -205,7 +205,9 @@
 // console.log(a.toLocaleLowerCase());
 
 // include also booelan type when the letter on the variables it will be other i will be flase
-
+//  let a="pandiyan";
+//  console.log(a.includes("pat"));
+ 
 
 
 
