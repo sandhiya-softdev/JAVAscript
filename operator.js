@@ -112,6 +112,15 @@
 // != equal it will be false
 // != not equal it wil be true
 
+let a=10;
+let b=10;
+console.log(a!=b);
+
+
+
+
+
+
 
 
 
