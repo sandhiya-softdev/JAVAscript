@@ -162,6 +162,8 @@
     
 // string
 // length
+let myVariables = "i.m saniya good girl";
+console.log(myVariables);
 
 
 
