@@ -131,7 +131,17 @@
 // let b=2;
 // console.log(a>b);
 
-// less tha
+// less than
+// let a=10;
+// let b=2;
+// console.log(a<b);
+
+
+let a=2;
+let b=10;
+console.log(a<b);
+
+
 
 
 
