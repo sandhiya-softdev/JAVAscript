@@ -104,6 +104,9 @@
 // let b=10;
 // console.log(a===b);
 
+// != equal it will be false
+// != not equal it wil be true
+
 
 
 
