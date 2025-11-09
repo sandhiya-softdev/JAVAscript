@@ -214,6 +214,8 @@
 // console.log(a.includes("pan"));
 // true
 
+// we can also split apart two words
+
 
 
 
