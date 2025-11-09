@@ -177,6 +177,12 @@
 // let fname="btsv";
 // console.log(fname.charAt(2));
 
+// index of method of the last index of the method
+
+let my= "dhiya";
+console.log(my.indexOf("dh"));
+
+
     
     
 
