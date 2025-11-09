@@ -192,9 +192,14 @@
 // let my="dhiya";
 // console.log(my.slice(2));
 
-// we can use this double words alos
-let my="dhiya"
-console.log(my.slice(3,5));
+// // we can use this double words alos
+// let my="dhiya"
+// console.log(my.slice(3,5));
+
+// we can also use this uppercase
+let a="dhiya";
+console.log(a.toUpperCase());
+
 
 
 
