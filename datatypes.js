@@ -173,6 +173,13 @@
 // console.log(myVar.charAt(0));
 
 
+// this is string character
+// let fname="btsv";
+// console.log(fname.charAt(2));
+
+    
+    
+
 
 
 
