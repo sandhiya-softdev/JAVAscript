@@ -163,9 +163,9 @@
 // string
 // length
 
-
-let myvariables = "i'm sandhiya";
-console.log(myvariables.length);
+// this is length
+// let myvariables = "i'm sandhiya";
+// console.log(myvariables.length);
 
 
 
