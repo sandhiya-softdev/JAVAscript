@@ -197,9 +197,10 @@
 // console.log(my.slice(3,5));
 
 // we can also use this uppercase
-let a="dhiya";
-console.log(a.toUpperCase());
+// let a="dhiya";
+// console.log(a.toUpperCase());
 
+// we can use this lowecase
 
 
 
