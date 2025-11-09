@@ -160,6 +160,7 @@
 //     };
 //     console.log(simpleobj.fname);
     
+// string
 
     
 
