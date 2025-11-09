@@ -169,6 +169,9 @@
 
 
 // this is string character
+// let myVar= "sandhiya";
+// console.log(myVar.charAt(0));
+
 
 
 
