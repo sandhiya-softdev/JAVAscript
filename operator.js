@@ -95,6 +95,14 @@
 // console.log(a==b);
 // this is equal because 20 and 20
 
+// let a="10";
+// let b=10;
+// console.log(a==b);
+// this is also 10 then they take it 10
+
+// ====only type will match the it will works
+
+
 
 
 
