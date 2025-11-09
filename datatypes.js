@@ -188,6 +188,12 @@
 // console.log(my.lastIndexOf("ya"));
 
 
+// we can use this together words use slic
+let my="dhiya";
+console.log(my.slice(2));
+
+
+
 
     
     
