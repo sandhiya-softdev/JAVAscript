@@ -102,15 +102,16 @@
 
 
 
-let a="sandhiya";
-let b="dhiya";
-console.log(a==b);
 
+ 
 
 // ====only type will match the it will works
 // let a="dhiya";
 // let b="sandhiya";
 // console.log(a===b);
+let a="sandhiya";
+let b="sandhiya";
+console.log(a==b);
 
 
 
