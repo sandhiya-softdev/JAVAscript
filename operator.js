@@ -116,10 +116,11 @@
 // let b=10;
 // console.log(a!=b);
 
-let a="sandhiya";
-let b="dhiya";
-console.log(a!=b);
+// let a="sandhiya";
+// let b="dhiya";
+// console.log(a!=b);
 
+// Relational operator
 
 
 
