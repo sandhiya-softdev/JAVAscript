@@ -201,6 +201,7 @@
 // console.log(a.toUpperCase());
 
 // we can use this lowecase
+let a="dhiya";
 
 
 
