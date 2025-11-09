@@ -220,6 +220,8 @@
 // output[ 's', 'ndhiy', 'p', 'ndiy', 'n' ]
 //  
 
+// ARRAY
+
 
 
 
