@@ -161,6 +161,9 @@
 //     console.log(simpleobj.fname);
     
 // string
+// length
+
+
 
     
 
