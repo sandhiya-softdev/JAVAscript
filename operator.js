@@ -101,9 +101,6 @@
 // this is also 10 then they take it 10
 
 
-let a="sandhiya";
-let b="sandhiya";
-console.log(a==b);
 
 
 
@@ -114,6 +111,11 @@ console.log(a==b);
 // let a="dhiya";
 // let b="sandhiya";
 // console.log(a===b);
+
+let a="sandhiya";
+let b="sandhiya";
+console.log(a==b);
+
 
 
 
