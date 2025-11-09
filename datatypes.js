@@ -234,6 +234,20 @@
 
 
 
+// OBJECT
+let vehicles= {
+    vehiclestype: "four wheeler",
+    brand: "honda",
+    price: "2000",
+    fueltyp: "peseol"
+}
+console.log(vehicles);
+
+
+
+
+
+
 
 
 
