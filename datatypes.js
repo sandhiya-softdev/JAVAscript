@@ -201,8 +201,11 @@
 // console.log(a.toUpperCase());
 
 // we can use this lowecase
-let a="dhiya";
-console.log(a.toLocaleLowerCase());
+// let a="dhiya";
+// console.log(a.toLocaleLowerCase());
+
+// include also booelan type when the letter on the variables it will be other i will be flase
+
 
 
 
