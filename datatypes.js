@@ -207,8 +207,13 @@
 // include also booelan type when the letter on the variables it will be other i will be flase
 //  let a="pandiyan";
 //  console.log(a.includes("pat"));
+// false
 
-// other way also
+// // other way also
+// let a="pandiya";
+// console.log(a.includes("pan"));
+// true
+
 
 
 
