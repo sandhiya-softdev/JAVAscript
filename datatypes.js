@@ -189,8 +189,12 @@
 
 
 // we can use this together words use slic
-let my="dhiya";
-console.log(my.slice(2));
+// let my="dhiya";
+// console.log(my.slice(2));
+
+// we can use this double words alos
+let my="dhiya"
+console.log(my.slice(3,5));
 
 
 
