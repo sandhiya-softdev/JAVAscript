@@ -168,6 +168,10 @@
 // console.log(myvariables.length);
 
 
+// this is string character
+
+
+
 
 
     
