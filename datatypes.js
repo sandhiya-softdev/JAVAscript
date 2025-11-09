@@ -184,8 +184,8 @@
 
 
 // last of words
-let my= "dhiya";
-console.log(my.lastIndexOf("ya"));
+// let my= "dhiya";
+// console.log(my.lastIndexOf("ya"));
 
 
 
