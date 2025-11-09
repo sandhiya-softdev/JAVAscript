@@ -100,9 +100,12 @@
 // console.log(a==b);
 // this is also 10 then they take it 10
 
-let a=10;
-let b=10;
-console.log(a===b);
+// let a=10;
+// let b=10;
+// console.log(a===b);
+
+
+
 
 
 
