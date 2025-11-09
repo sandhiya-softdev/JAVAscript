@@ -84,6 +84,12 @@
 // let b=20;
 // console.log(a===b);
 
+// comparison operator
+let a=10;
+let b=80;
+console.log(a==b);
+
+
 
 
 
