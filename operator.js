@@ -100,10 +100,17 @@
 // console.log(a==b);
 // this is also 10 then they take it 10
 
+
+
+let a="sandhiya";
+let b="dhiya";
+console.log(a==b);
+
+
 // ====only type will match the it will works
-let a="dhiya";
-let b="sandhiya";
-console.log(a===b);
+// let a="dhiya";
+// let b="sandhiya";
+// console.log(a===b);
 
 
 
