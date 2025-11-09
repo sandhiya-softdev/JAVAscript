@@ -179,8 +179,14 @@
 
 // index of method of the last index of the method
 
+// let my= "dhiya";
+// console.log(my.indexOf("dh"));
+
+
+// last of words
 let my= "dhiya";
-console.log(my.indexOf("dh"));
+console.log(my.lastIndexOf("ya"));
+
 
 
     
