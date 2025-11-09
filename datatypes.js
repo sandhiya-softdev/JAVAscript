@@ -223,9 +223,14 @@
 // ARRAY
 // let family=["sandhiya", "pandiyan", "bommi", "bhuvana"];
 // console.log(family[2]);
-let family=["sandhiya", "pandiyan", "bommi", "bhuvana"];
- console.log(family.length-1);
 
+
+// let family=["sandhiya", "pandiyan", "bommi", "bhuvana"];
+//  console.log(family.length-1);
+
+
+// let family=["sandhiya", "pandiyan", "bommi", "bhuvana"];
+// console.log(family[family.length-1]);
 
 
 
