@@ -202,6 +202,8 @@
 
 // we can use this lowecase
 let a="dhiya";
+console.log(a.toLocaleLowerCase());
+
 
 
 
