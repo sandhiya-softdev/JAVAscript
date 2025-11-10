@@ -166,6 +166,11 @@
 // console.log(income&&cibicore);
 
 
+let a=3;
+b=++a;
+console.log(a);
+
+
 
 
 
