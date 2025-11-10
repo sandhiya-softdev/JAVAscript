@@ -70,6 +70,21 @@
 //     console.log("a is not equal")
 // }
 
+// let a=3;
+// let b=3;
+
+
+// if (a<=b){
+//     console.log("a and b is equal");
+    
+// }else{
+//     console.log("a and bis not equal")
+// }
+
+
+
+
+
 
 
 
