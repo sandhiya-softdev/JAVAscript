@@ -159,6 +159,8 @@
 // console.log(a<=b);
 
 
+// real time example
+
 
 
 
