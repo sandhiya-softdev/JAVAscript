@@ -160,7 +160,12 @@
 
 
 // real time example
-// income, cibicore
+// income, cibicore - eliblible
+let income=true;
+let cibicore=true;
+console.log(income&&cibicore);
+
+
 
 
 
