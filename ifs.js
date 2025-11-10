@@ -81,6 +81,27 @@
 //     console.log("a and bis not equal")
 // }
 
+// let a=2;
+// let b=3;
+// console.log(a<=b);
+
+
+// let a=12;
+// let b=12;
+// console.log(a>=b);
+
+
+var rain=true;
+
+
+if (rain){
+    console.log("take on unmbrella");
+    
+}else{
+    console.log("enjoy the sunshine")
+}
+
+
 
 
 
