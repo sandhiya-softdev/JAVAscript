@@ -91,15 +91,17 @@
 // console.log(a>=b);
 
 
-var rain=true;
+// var rain=true;
 
 
-if (rain){
-    console.log("take on unmbrella");
+// if (rain){
+//     console.log("take on unmbrella");
     
-}else{
-    console.log("enjoy the sunshine")
-}
+// }else{
+//     console.log("enjoy the sunshine")
+// }
+
+
 
 
 
