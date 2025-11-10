@@ -184,9 +184,20 @@
 // b=--a;
 // console.log(b);let
 // 
-let a=3;
-b=++a;
-console.log(b);
+// let a=3;
+// b=++a;
+// console.log(b);
+
+
+let work="it";
+if (work=="bank"){
+    console.log("you are in it");
+}else {
+   console.log("you are it")
+}
+    
+
+
 
 
 
