@@ -173,6 +173,12 @@
 // we give a=3; and b=3+1;means first aye 3 came
 
 
+let a=3;
+b=a++;
+console.log(b);
+
+
+
 
 
 
