@@ -18,4 +18,14 @@
 //     console.log("unmatched");
 // }
 
+// let bike="honda";
+// let bike2="tvs";
+
+
+// if (bike!=bike2){
+//     console.log("true");
+    
+// }else{
+//     console.log("flase")
+// }
 
