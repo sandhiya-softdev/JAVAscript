@@ -180,6 +180,10 @@
 // let a=3;
 // b=a--;
 // console.log(b);
+// let a=3;
+// b=--a;
+// console.log(b);
+
 
 
 
