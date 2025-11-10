@@ -160,6 +160,30 @@
 //     console.log("you need a improvement");
     
 // }
+//  let work="it";
+// if (work=="bank" && "it"){
+//     console.log("you are in it");
+// }else {
+//    console.log("you are it")
+// }
+
+// let things=5;
+
+// if (things>=8){
+//     console.log("big");
+    
+// }else{
+//     console.log("small");
+// }
+    
+// let apple=10;
+
+// if (apple<2){
+//     console.log("correct");
+    
+// }else{
+//     console.log("wrong");
+// }
 
 
 
