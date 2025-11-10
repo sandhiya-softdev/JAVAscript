@@ -29,3 +29,32 @@
 //     console.log("flase")
 // }
 
+//  let bike="honda";
+//  let bike2="honda";
+
+
+//  if (bike!=bike2){
+//    console.log("true");
+    
+// }else{
+//      console.log("flase")
+// }
+// let a=9;
+// let b=5;
+
+// if (a>b){
+//     console.log("value is right");
+    
+// }else{
+//     console.log("value is not right")
+// }
+
+
+
+
+
+
+
+
+
+
