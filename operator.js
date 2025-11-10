@@ -205,7 +205,7 @@
 //     console.log("small");
 // }
     
-let apple=10;
+// let apple=10;
 
 // if (apple<2){
 //     console.log("correct");
