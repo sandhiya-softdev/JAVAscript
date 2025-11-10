@@ -132,6 +132,16 @@
 
 
 
+// let birthday=true;
+
+// if(birthday){
+//     console.log("happy birthday sandhiya");
+    
+// }else{
+//     console.log("great day")
+// }
+
+
 
 
 
