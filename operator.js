@@ -195,6 +195,15 @@
 // }else {
 //    console.log("you are it")
 // }
+
+let things=5;
+
+if (things>=8){
+    console.log("big");
+    
+}else{
+    console.log("small");
+}
     
 
 
