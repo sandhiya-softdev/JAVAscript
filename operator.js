@@ -184,7 +184,10 @@
 // b=--a;
 // console.log(b);let
 // 
-let
+let a=3;
+b=++a;
+console.log(b);
+
 
 
 
