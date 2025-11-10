@@ -161,9 +161,9 @@
 
 // real time example
 // income, cibicore - eliblible
-let income=true;
-let cibicore=true;
-console.log(income&&cibicore);
+// let income=true;
+// let cibicore=true;
+// console.log(income&&cibicore);
 
 
 
