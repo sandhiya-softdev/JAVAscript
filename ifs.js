@@ -9,3 +9,13 @@
 // }
 
 
+let a="apple";
+let b="5";
+
+if (a===b){
+    console.log("matched");
+} else {
+    console.log("unmatched");
+}
+
+
