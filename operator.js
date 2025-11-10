@@ -190,6 +190,30 @@
 
 
 // increment
+// let a=5;
+// a=++a;
+// console.log(a);
+
+
+
+// let a=5;
+// a=a++;
+// console.log(a);
+
+
+
+// let a=6;
+// b=++a;
+// console.log(a);
+
+
+// let a=5;
+// a=++a;
+// console.log(a);
+
+
+
+
 
 
 
