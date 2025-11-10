@@ -189,12 +189,12 @@
 // console.log(b);
 
 
-let work="it";
-if (work=="bank"){
-    console.log("you are in it");
-}else {
-   console.log("you are it")
-}
+// let work="it";
+// if (work=="bank" && "it"){
+//     console.log("you are in it");
+// }else {
+//    console.log("you are it")
+// }
     
 
 
