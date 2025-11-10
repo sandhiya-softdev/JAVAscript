@@ -140,6 +140,22 @@
 // }else{
 //     console.log("great day")
 // }
+// let season="summer";
+
+// if(season =="spring")
+//     {
+//     console.log("spring");
+    
+// }
+// if(season =="summer"){
+//     console.log("summer");
+// }
+// if(season =="winter"){
+//     console.log("winter");
+// }
+
+
+
 
 
 
