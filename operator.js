@@ -170,7 +170,7 @@
 // b=++a;
 // console.log(b);
 // i want to tell this explanation
-// 
+// we give a=3; and b=3+1;means first aye 3 came
 
 
 
