@@ -196,15 +196,23 @@
 //    console.log("you are it")
 // }
 
-let things=5;
+// let things=5;
 
-if (things>=8){
-    console.log("big");
+// if (things>=8){
+//     console.log("big");
     
-}else{
-    console.log("small");
-}
+// }else{
+//     console.log("small");
+// }
     
+let apple=10;
+
+// if (apple<2){
+//     console.log("correct");
+    
+// }else{
+//     console.log("wrong");
+// }
 
 
 
