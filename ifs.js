@@ -9,13 +9,13 @@
 // }
 
 
-let a="apple";
-let b="5";
+// let a="apple";
+// let b="apple";
 
-if (a===b){
-    console.log("matched");
-} else {
-    console.log("unmatched");
-}
+// if (a===b){
+//     console.log("matched");
+// } else {
+//     console.log("unmatched");
+// }
 
 
