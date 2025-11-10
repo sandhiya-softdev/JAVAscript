@@ -49,6 +49,20 @@
 //     console.log("value is not right")
 // }
 
+// let a=1;
+// let b=3;
+
+
+// if (a<b){
+//     console.log("a is small");
+    
+// }else{
+//     console.log("a is not small")
+// }
+
+
+
+
 
 
 
