@@ -61,6 +61,18 @@
 // }
 
 
+// let a=3;
+// let b=3;
+// if (a>=b){
+//     console.log("a and b equal");
+    
+// } else{
+//     console.log("a is not equal")
+// }
+
+
+
+
 
 
 
