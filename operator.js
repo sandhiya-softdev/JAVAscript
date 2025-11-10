@@ -212,6 +212,27 @@
 // console.log(a);
 
 
+// let a=5;
+// a=a++;
+// console.log(a);
+
+
+// let a=8;
+// a=--a;
+// console.log(a);
+
+
+
+let a=8;
+a=a--;
+console.log(a);
+
+
+
+
+
+
+
 
 
 
