@@ -102,6 +102,32 @@
 // }
 
 
+// let work=false;
+
+// if(work){
+//     console.log("great job");
+    
+// }else{
+//     console.log("finish your homeword");
+// }
+
+// let cookies=false;
+
+// if(cookies){
+//     console.log("would you lika a cookie");
+    
+// }else{
+//     console.log("time to bake more cookies");
+// }
+
+
+
+
+
+
+
+
+
 
 
 
