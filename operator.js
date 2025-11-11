@@ -314,11 +314,22 @@
 // console.log(!a);
 
 
-let a=10;
-let b=20;
-let c=30
-d=a+b+c;
-console.log(d);
+// let a=10;
+// let b=20;
+// let c=30
+// d=a+b+c;
+// console.log(d);
+
+let apple="fruits";
+console.log(apple);
+
+
+
+
+
+
+
+
 
 
 
