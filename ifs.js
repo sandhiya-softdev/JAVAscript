@@ -187,6 +187,11 @@
 
 
 
+petrolbank=20;
+
+if
+
+
 
 
 
