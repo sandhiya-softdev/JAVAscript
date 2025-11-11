@@ -306,6 +306,16 @@
 // let b="true";
 // console.log(a||b);
 
+// let a="false";
+// let b="false";
+// console.log(a||b);
+
+
+
+
+
+
+
 
 
 
