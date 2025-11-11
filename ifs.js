@@ -341,7 +341,7 @@
 
 // let a="dhiya";
 
-// if (a==="sandhiya"&&"sandhiya"){
+// if (a=="sandhiya"&&"sandhiya"){
 //     console.log("kk");
     
 
@@ -349,7 +349,28 @@
 // else{
 //     console.log("ii");
 
+
 // }
+// let num = 10;
+ 
+// if (num >= 10) {
+//    num = num + 5;
+// }
+ 
+// console.log(num);
+// let num = 10;
+ 
+// if (num >= 10) {
+//    num = num + 5;
+// }
+ 
+// console.log(num);
+
+
+
+
+
+
 
 
 
