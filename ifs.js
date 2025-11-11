@@ -339,9 +339,17 @@
 
 // }
 
-let a="sandhiya";
+// let a="dhiya";
 
-if (a==="sandhiya")
+// if (a==="sandhiya"&&"sandhiya"){
+//     console.log("kk");
+    
+
+// }
+// else{
+//     console.log("ii");
+
+// }
 
 
 
