@@ -194,6 +194,14 @@
 // }else{
 //     console.log("amount is not fine")
 // }
+//  let dude="not good";
+
+
+//  if(dude){
+//     console.log("that is not good")
+//  }else{
+//     console.log("that's movie is not good")
+ }
 
 
 
