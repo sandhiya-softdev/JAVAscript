@@ -312,8 +312,12 @@
 // console.log(a===b);
 
 
-let a=22;
-let b=
+// let a=22;
+// let b=34;
+// console.log(a==b);
+
+
+
 
 
 
