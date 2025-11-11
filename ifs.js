@@ -198,10 +198,18 @@
 
 
 //  if(dude){
-//     console.log("that is not good")
+//     console.log("that is not good");
 //  }else{
-//     console.log("that's movie is not good")
- }
+//     console.log("that's movie is not good");
+// }
+
+
+
+
+
+
+
+ 
 
 
 
