@@ -204,6 +204,19 @@
 // }
 
 
+let a1="apple";
+let a="bana";
+
+ 
+if(a){
+    console.log(a);
+    
+}else{
+    console.log(a1);
+}
+
+
+
 
 
 
