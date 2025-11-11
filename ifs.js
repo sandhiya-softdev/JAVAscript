@@ -339,6 +339,10 @@
 
 // }
 
+let a="sandhiya";
+
+if (a==="sandhiya")
+
 
 
 
