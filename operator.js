@@ -291,9 +291,9 @@
 // let b="false";
 // console.log(a&&b);
 
-let fruits="true";
-let fruits1="flase";
-console.log(fruits!!fruits1);
+// let fruits="aval";
+// let fruits1="avan";
+// console.log(fruits||fruits1);
 
 
 
