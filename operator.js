@@ -310,7 +310,7 @@
 // let b="false";
 // console.log(a||b);
 
-let a="apple";
+let a="true";
 console.log(!a);
 
 
