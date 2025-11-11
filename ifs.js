@@ -331,13 +331,13 @@
 // let b=90;
 // console.log(a===b);
 
-let a="sandhiya";
-let b="dhiya";
-if(a=b){
-    console.log(a&&b);
+// let a="sandhiya";
+// let b="dhiya";
+// if(a=b){
+//     console.log(a&&b);
     
 
-}
+// }
 
 
 
