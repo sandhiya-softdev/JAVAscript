@@ -215,6 +215,23 @@
 //     console.log(a1);
 // }
 
+// let dude1="good";
+// let dude2="not good"
+// if (dude1===dude2){
+//     console.log("true")
+// }else{
+//     console.log("flase")
+// }
+
+
+
+
+
+
+
+
+
+
 
 
 
