@@ -223,15 +223,18 @@
 //     console.log("flase")
 // }
 
-let a="good";
-let b="notgood";
+// let a="good";
+// let b="notgood";
 
-if (a===b){
-    console.log("value is good");
+// if (a===b){
+//     console.log("value is good");
     
-}else{
-    console.log("value is not good")
-}
+// }else{
+//     console.log("value is not good")
+// }
+let a=10;
+let b="10";
+console.log(a==b);
 
 
 
