@@ -204,16 +204,20 @@
 // }
 
 
-let a1="apple";
-let a="bana";
+// let a1="apple";
+// let a="bana";
 
  
-if(a){
-    console.log(a);
+// if(a){
+//     console.log(a);
     
-}else{
-    console.log(a1);
-}
+// }else{
+//     console.log(a1);
+// }
+
+
+
+
 
 
 
