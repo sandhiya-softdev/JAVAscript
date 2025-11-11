@@ -235,6 +235,37 @@
 // let a=10;
 // let b="10";
 // console.log(a==b);
+//  let simbu="fan1";
+//  let simbu1="fan1";
+//  console.log(simbu==simbu1);
+
+
+// let a="good";
+// let b="not good";
+// if(a==b){
+//     console.log("good");
+    
+// }else{
+//     console.log("not good")
+// }
+// let a=90;
+// let b=100;
+// if(a>b){
+//     console.log("fine");
+    
+// }else{
+//     console.log("not fine")
+// }
+
+
+
+
+ 
+
+
+
+
+
 
 
 
