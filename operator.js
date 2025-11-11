@@ -310,8 +310,8 @@
 // let b="false";
 // console.log(a||b);
 
-let a="true";
-console.log(!a);
+// let a="true";
+// console.log(!a);
 
 
 
