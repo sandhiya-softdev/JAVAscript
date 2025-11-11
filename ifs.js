@@ -187,9 +187,13 @@
 
 
 
-petrolbank=20;
+// petrolbank=20;
 
-if
+// if(petrolbank){
+//     console.log("amount is 20")
+// }else{
+//     console.log("amount is not fine")
+// }
 
 
 
