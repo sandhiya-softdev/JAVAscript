@@ -320,8 +320,23 @@
 // d=a+b+c;
 // console.log(d);
 
-let apple="fruits";
-console.log(apple);
+// let apple="fruits";
+// console.log(apple);
+
+
+// let bool="true";
+// console.log(bool);
+
+
+
+// let fname=null;
+// console.log(fname);
+
+
+// let a;
+// console.log(a);
+
+
 
 
 
