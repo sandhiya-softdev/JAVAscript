@@ -277,6 +277,28 @@
 //     console.log("not good")
 // }
 
+// let a=30;
+// let b=40;
+// if (a<=b){
+//     console.log("servo");
+    
+// }else{
+//     console.log("express");
+// }
+
+
+
+
+
+let a=89;
+let b=89;
+if (a===b){
+    console.log("people");
+    
+}else{
+    console.log("human")
+}
+
 
 
 
