@@ -307,9 +307,13 @@
 // let b=50;
 // console.log(a===b);
 
-let a=10;
-let b=90;
-console.log(a===b);
+// let a=10;
+// let b=90;
+// console.log(a===b);
+
+
+let a=22;
+let b=
 
 
 
