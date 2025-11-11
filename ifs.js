@@ -290,14 +290,14 @@
 
 
 
-let a=89;
-let b=89;
-if (a===b){
-    console.log("people");
+// let a=89;
+// let b=89;
+// if (a===b){
+//     console.log("people");
     
-}else{
-    console.log("human")
-}
+// }else{
+//     console.log("human")
+// }
 
 
 
