@@ -295,11 +295,17 @@
 // let fruits1="avan";
 // console.log(fruits||fruits1);
 
-let apple=false;
+// let apple=false;
 
-let apple1="true";
-let apple2="flase";
-console.log(apple1||apple2);
+// let apple1="true";
+// let apple2="flase";
+// console.log(apple1||apple2);
+
+
+let a="true";
+let b="true";
+console.log(a||b);
+
 
 
 
