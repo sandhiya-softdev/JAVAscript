@@ -257,6 +257,33 @@
 //     console.log("not fine")
 // }
 
+// let a=30;
+// let b=20;
+// if (a<b){
+//     console.log("fine");
+    
+// }else{
+//     console.log("not fine")
+// }
+
+
+// let a=100;
+// let a1=100;
+// if (a>=a1){
+//     console.log("good");
+    
+
+// }else{
+//     console.log("not good")
+// }
+
+
+
+
+
+
+
+
 
 
 
