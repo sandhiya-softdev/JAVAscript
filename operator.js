@@ -283,7 +283,10 @@
 // let b=10;
 // console.log(a<=b);
 
-let a="true"
+// let a="true";
+// let b="false";
+// console.log(a&&b);
+
 
 
 
