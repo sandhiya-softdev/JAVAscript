@@ -302,9 +302,10 @@
 // console.log(apple1||apple2);
 
 
-let a="true";
-let b="true";
-console.log(a||b);
+// let a="true";
+// let b="true";
+// console.log(a||b);
+
 
 
 
