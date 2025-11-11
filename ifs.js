@@ -223,6 +223,16 @@
 //     console.log("flase")
 // }
 
+let a="good";
+let b="notgood";
+
+if (a===b){
+    console.log("value is good");
+    
+}else{
+    console.log("value is not good")
+}
+
 
 
 
