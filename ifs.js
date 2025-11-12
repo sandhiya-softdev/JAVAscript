@@ -423,16 +423,29 @@
 let avg=87;
 
 
-if(avg>=90 && avg<=100){
+if(avg>=90 && avg<=100)
+{
     console.log("wait");
+}
     
-} else if(avg>=80 && avg<=89){
-    console.log("come on")
-}else if(avg>=70 && avg<=79){
+ else if(avg>=80 && avg<=89)
+ {
 
-}else(avg>=70) {
+    console.log("come on")
+ }
+else if(avg>=70 && avg<=79)
+{
+    console.log("no")
+}
+
+ 
+
+else(avg>=70) 
+{
    console.log("nothings")
 }
+   
+
 
 
 
