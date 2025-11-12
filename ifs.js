@@ -367,6 +367,13 @@
 // console.log(num);
 
 
+// let num=0;
+// if(9>2){
+//     num=1;
+// }
+// console.log(num===1);
+
+
 
 
 
