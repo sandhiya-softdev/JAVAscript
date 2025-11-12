@@ -452,12 +452,29 @@
 // }
 
 // let fname="sandhiya";
+
+
 // switch(fname){
-//     case fname:
-//         console.log("thigs");
+//     case "sandhiya":
+//        console.log("thigs");
+//         break;
 //         default:
 //             console.log("gn")
+//              break;
 // }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
