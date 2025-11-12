@@ -420,7 +420,13 @@
 // console.log(a==b);
 
 
-let
+let avg=87;
+
+
+if(avg>=90 && avg<=100){
+    console.log("wait");
+    
+} else if(avg>)
 
 
 
