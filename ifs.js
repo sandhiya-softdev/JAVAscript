@@ -475,7 +475,17 @@
     
 // }
 
-let
+let things="true";
+switch(things){
+    case "true":
+    console.log();
+    break;
+    default:
+        console.log("false")
+
+    
+}
+
 
 
 
