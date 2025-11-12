@@ -443,7 +443,7 @@
 
 let num=2;
 switch(num){
-    case 1:
+    case 4:
     console.log("one");
     default:
         console.log("nothing")
