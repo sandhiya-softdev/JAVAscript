@@ -395,6 +395,12 @@
 // let b=10;
 // console.log(a==b);
 
+let a=10;
+let a1=10;
+console.log(a===b);
+
+
+
 
 
 
