@@ -464,6 +464,18 @@
 // }
 
 
+// let high=90;
+
+// switch (high){
+//     case 45:
+//     console.log("num");
+//     break;
+//     default:
+//         console.log("not num")
+    
+// }
+
+
 
 
 
