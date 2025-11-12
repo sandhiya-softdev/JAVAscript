@@ -441,21 +441,14 @@
 //     console.log("some")
 // }
 
+// SWTICH STATEMENT
+
 let num=2;
 switch(num){
     case 4:
     console.log("one");
     default:
         console.log("nothing")
-
-
-
-
-
-        
-    
-
-
 }
 
 
