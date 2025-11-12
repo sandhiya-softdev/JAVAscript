@@ -478,7 +478,7 @@
 let things="true";
 switch(things){
     case "true":
-    console.log();
+    console.log("true");
     break;
     default:
         console.log("false")
