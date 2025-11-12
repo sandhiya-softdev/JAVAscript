@@ -430,7 +430,7 @@ if(avg>=90 && avg<=100){
     console.log("come on")
 }else if(avg>=70 && avg<=79){
 
-}else(avg>=70){
+}else(avg>=70) {
    console.log("nothings")
 }
 
