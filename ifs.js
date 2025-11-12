@@ -451,6 +451,15 @@ switch(num){
         console.log("nothing")
 }
 
+let fname="SANDHIYA";
+switch(fname){
+    case fname:
+        console.log("thigs");
+        default:
+            console.log("gn")
+}
+
+
 
    
 
