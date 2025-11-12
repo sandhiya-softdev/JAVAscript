@@ -431,7 +431,7 @@ if(avg>=90 && avg<=100){
 }else if(avg>=70 && avg<=79){
 
 }else(avg>=70){
-    log
+   console.log("nothings")
 }
 
 
