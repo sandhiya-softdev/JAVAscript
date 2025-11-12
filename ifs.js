@@ -441,7 +441,7 @@
 //     console.log("some")
 // }
 
- 
+let num=2;
 
 
    
