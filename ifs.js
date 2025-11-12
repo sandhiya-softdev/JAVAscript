@@ -443,21 +443,21 @@
 
 // SWTICH STATEMENT
 
-let num=2;
-switch(num){
-    case 4:
-    console.log("one");
-    default:
-        console.log("nothing")
-}
+// let num=2;
+// switch(num){
+//     case 4:
+//     console.log("one");
+//     default:
+//         console.log("nothing")
+// }
 
-let fname="SANDHIYA";
-switch(fname){
-    case fname:
-        console.log("thigs");
-        default:
-            console.log("gn")
-}
+// let fname="sandhiya";
+// switch(fname){
+//     case fname:
+//         console.log("thigs");
+//         default:
+//             console.log("gn")
+// }
 
 
 
