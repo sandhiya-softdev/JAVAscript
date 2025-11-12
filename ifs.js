@@ -475,16 +475,16 @@
     
 // }
 
-let things="true";
-switch(things){
-    case "true":
-    console.log("true");
-    break;
-    default:
-        console.log("false")
+// let things="true";
+// switch(things){
+//     case "true":
+//     console.log("true");
+//     break;
+//     default:
+//         console.log("false")
 
     
-}
+// }
 
 
 
