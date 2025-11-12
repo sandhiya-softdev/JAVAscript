@@ -437,13 +437,13 @@ else if(avg>=70 && avg<=79)
 {
     console.log("no")
 }
+else{
+    console.log("some")
+}
 
  
 
-else(avg>=70) 
-{
-   console.log("nothings")
-}
+
    
 
 
