@@ -71,12 +71,28 @@
 // }
 
 // print all the numbers from 1 to 10 using for loop
+// let num = 1;
+
+// for (num = 1;num<= 10;num++)
+// {
+//     console.log(num);
+// }
+
+// let a=1;
+
+// for (a = 1;a<= 10;a+=2)
+// {
+//     console.log(a);
+    
+// }
+    
+
 
 
 
 
     
-    
+
     
 
 
