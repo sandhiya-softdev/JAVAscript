@@ -85,14 +85,83 @@
 //     console.log(a);
     
 // }
+
+// let a=10;
+// for (a=10; a>=1; a--)
+// {
+//     console.log(a);
+    
+// }
+
+
+
+// print only the even number from 1 to 10
+
+
+// let a=2;
+// for (a=2;a<=10;a+=2)
+// {
+//     console.log(a);
+    
+// }
+
+
+
+
+
+// let a=1;
+// for(a=1;a<=30;a++);
+// {
+//     console.log(a);
+    
+// }
+    
+// let a=1;
+// for(a=1;a<=5;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let num=1;
+// for(num=1;num<=10;num++)
+// {
+//     console.log(num);
+    
+// }
+
+
+
+
+// let a=3;
+// for(a=3;a<=30;a+1)
+// {
+//     console.log(a);
+    
+// }
     
 
 
-
-
-
+// let a=1;
+// for(a=1;a<=10;a=a+1)
+// {
+//     console.log(a);
     
+// }
 
+
+
+// let num=1;
+// for(num=1;num<=50;num++)
+// {
+//     console.log(num);
+    
+// }
+
+
+
+let a=1;
+for(a=1;)
     
 
 
