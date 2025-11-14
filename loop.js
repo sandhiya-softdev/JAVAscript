@@ -158,10 +158,239 @@
     
 // }
 
+// let a=10;
+// for(a=10;a>=1;a++);
+// {
+//     console.log(a);
+    
+// }
+
+// let a=10;
+// for(a=10;a>=1;a--)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=20;
+// for(a=20;a>=0;a--)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=6;
+// for(a=6; a<=9;a++)
+// {
+//     console.log(a);
+    
+// }
 
 
-let a=1;
-for(a=1;)
+// let a=1;
+// for(a=1;a<=10;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=1;
+// for(a=1;a<=10;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=10;
+// for(a=10;a>=1;a--)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=3;
+// for(a=3;a<=16;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=5;
+// for(a=5;a<=30;a++)
+// {
+//     console.log(a);
+    
+// }
+    
+
+
+// a=4;
+// for(a=4;a<=10;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=8;
+// for(a=8;a<=16;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=9;
+// for(a=9;a<=20;)
+// {
+//     console.log(a);
+    
+// }
+// let a=9;
+// for(a=9;a<=20;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=10;
+// for(a=10;a<=30;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=10;
+// for(a=10;a<=30;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let num=10;
+// for(a=10;a<=50;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=11;
+// for(a=11;a<=50;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=12;
+// for(a=12;a<=20;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=13;
+// for(a=13;a<=50;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=14;
+// for(a=13;a<=29;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=15;
+// for(a=15;a<=20;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=19;
+// for(a=19;a<=20;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// i=20;
+// for(i=20;i<=30;i++)
+// {
+//     console.log(i);
+    
+// }
+
+
+
+// i=30;
+// for(i=30;i<=40;i++)
+// {
+//     console.log(i);
+    
+// }
+
+
+// let a=20;
+// for(a=20;a<=30;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=20;
+// for (a=20;a>=0;a--)
+// {
+//     console.log(a);
+    
+// }
+let a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
 
 
