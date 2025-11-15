@@ -461,6 +461,34 @@
     
 // }
 
+// let a=0;
+// for(a=0;a<10;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=4;
+// for(a=4;a>=2;a--)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=10;
+// for(a=10;a>=9;a--)
+// {
+//     console.log(a);
+    
+// }
+// let a=1;
+// for(a=1;a<=10;a++)
+// {
+//     console.log(a);
+    
+// }
+
 
 
 
