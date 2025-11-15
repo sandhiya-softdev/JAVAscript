@@ -489,9 +489,49 @@
     
 // }
 
+// let a=1;
+// for(a=1;a<=3;a++)
+// {
+//     console.log("hello");
+    
+// }
+// let a=1;
+// while(a<=3){
+//     console.log("hello");
+//     a++
+    
+// }
+
+// let a=1;
+// for(a=1;a<=5;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=1;
+// for(a=1;a<=5;a++)
+// {
+//     console.log(a*a);
+    
+// }
+
+// let a=1;
+// for(a=1;a<=7;a++)
+// {
+//     console.log(a*a);
+    
+// }
 
 
 
+// let a=2;
+// for(a=2;a<=6;a++)
+// {
+//     console.log(a*a);
+    
+// }
 
 
 
