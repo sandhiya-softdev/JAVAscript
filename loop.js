@@ -548,6 +548,79 @@
 
 
 
+// let a=1;
+// for (a=1;a<=10;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=10;
+// for(a=10;a>=0;a--)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=3;
+// for(a=3;a<9;a++)
+// {
+//     console.log(a);
+    
+// }
+    
+
+
+// let a=0;
+// for(a=0;a<=10;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// let a=10;
+// for(a=10;a>=0;a--)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=1;
+// while(a<=10){
+//     console.log(a);
+//     a++;
+    
+// }
+
+
+// let a=0;
+// while(a<=10){
+//     console.log(a);
+//     a++
+    
+// }
+
+
+
+
+
+// let a=1;
+// do{
+//     console.log(a);
+//     a++;
+    
+// }while(a<=0)
+
+
+
+
+
+
+
+
+
 
 
 
