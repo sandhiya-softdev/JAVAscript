@@ -354,7 +354,113 @@
 //     console.log(a);
     
 // }
-let a
+// let a=10;
+// for(a=10;a<=30;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=9;
+// for(a=9;a<=50;a++)
+// {
+//     console.log(a);
+    
+// }
+// a=8;
+// for(a=8;a<=12;a++){
+//     console.log(a);
+    
+// }
+// a=7;
+// for(a=7;a<=32;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// a=6;
+// for(a=6;a<=34;a++)
+//     {
+//     console.log(a);
+    
+// }
+
+
+// a=5;
+// for(a=5;a<=15;a++)
+// {
+//     console.log(a);
+    
+// }
+// let a=5;
+// for(a=5;a<=9;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// // let a=4;
+// // for(a=4;a<=12;a++){
+// //     console.log(a);
+    
+// }
+
+
+// let a=2;
+// for(a=2;a<=30;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=1;
+// for(a=1;a<=12;a++)
+// {
+//     console.log(a);
+    
+// }
+
+
+// increment
+
+// var a=20;
+// for(a=20;a>=0;a--)
+// {
+//     console.log(a);
+    
+// }
+
+
+// var a=21;
+// for(a=21;a>=11;a--)
+// {
+//     console.log(a);
+    
+// }
+
+// var a=2;
+// for(a=2;a>=1;a--)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=10;
+// for(a=10;a<=20;a++)
+// {
+//     console.log(a);
+    
+// }
+
+// let =10;
+// for(a=10;a>=0;a--)
+// {
+//     console.log(a);
+    
+// }
+
 
 
 
