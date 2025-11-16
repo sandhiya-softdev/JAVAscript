@@ -488,6 +488,63 @@
 
 
 
+// let sandhiya="petrol bank";
+// let sandhiya1="petrol bank";
+// if(sandhiya==sandhiya1){
+//     console.log("yes");
+    
+// }else{
+//     console.log("no")
+// }
+
+
+
+// let fname=1;
+// let fname2=1;
+// if (fname&&fname2){
+//     console.log("right");
+    
+// }else {
+//     console.log("no")
+// }
+
+
+
+// let fname=true;
+// if(fname){
+//     console.log("am sandhiya");
+    
+// }else  {
+//     console.log("not sandhiya");
+// }
+
+
+
+
+// let a=10;
+// let b=20;
+// let c=10;
+// if(a>b){
+//     console.log("value is right");
+    
+// }else if(a=c){
+//     console.log("value");
+// }else{
+//     console.log("good value");
+// }
+ let high=90;
+
+switch (high){
+    case 45:
+    console.log("num");
+    break;
+    default:
+        console.log("not num")
+    
+}
+
+
+
 
 
 
