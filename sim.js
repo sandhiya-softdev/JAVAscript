@@ -114,7 +114,94 @@
 
 
 
-// sim
+// SIMPLE PROJECTS
+
+
+// let a=5;
+// let b=7;
+// if(a<7){
+//     console.log("the number +is positive")
+// }
+// else{
+//     console.log("not good")
+// }
+
+
+
+// let age=18;
+// if(age<=20){
+//     console.log("you are an adult");
+    
+// }else{
+//     console.log("not age")
+// }
+// let pass=80;
+// if(pass>79){
+//     console.log("fail");
+    
+// }else if(pass<90){
+//     console.log("not fail")
+// }else{
+//     console.log("fail")
+// }
+
+// let temp="hot";
+// if(temp==="hot"){
+//    console.log("it's hot outside");
+   
+// }
+
+// 
+// let a="on";
+// if(a==="on"){
+//     console.log(a);
+    
+// } 
+
+// let username="sandhiya";
+// let userpassword="1234"
+// if(username==="sandhiya"&& userpassword==="1234"){
+//     console.log("login successful");
+    
+// }
+// a=10;
+// if(a%2===0){
+//     console.log("even number")
+// }
+
+
+// let a="sandhiya";
+// let a1="dubai";
+// {
+// console.log("hello,my name is sandhiya");
+// }
+
+
+// let a="sandhiya";
+// let b="24";
+// let c="india";
+// let d="singing";
+// {
+//     console.log("my name is sandhiya");
+//      console.log("my name is sandhiya");
+//       console.log("my name is sandhiya");
+//        console.log("my name is sandhiya");
+
+// }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
