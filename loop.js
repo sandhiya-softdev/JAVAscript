@@ -614,6 +614,47 @@
 // }while(a<=0)
 
 
+// let a=1;
+// for (a=1;a<=10;a++){
+//     console.log(a);
+    
+// }
+
+// let a=2;
+// for(a=2;a<=20;a+=2)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=10;
+// for(a=10;a>=0;a--)
+// {
+//     console.log(a);
+    
+// }
+
+// let a=1;
+// for(a=1;a<=5;a++){
+//     console.log("hello");
+    
+// }
+// let a=1;
+// for(a=1;a<=10;a++)
+// {
+//     console.log("5*1=");
+    
+// }
+
+
+
+
+
+
+
+
+
+
 
 
 

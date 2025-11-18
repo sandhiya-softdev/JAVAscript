@@ -188,6 +188,53 @@
 //        console.log("my name is sandhiya");
 
 // }
+// STRING NUMBER BOOLEAN
+
+// let num=10;
+// let num2=20;
+// {
+// console.log(num+num2);
+
+// }
+// let num1=20;
+// let num2=30;
+// {
+//     console.log(num1-num2);
+    
+// }
+
+// let a=20;
+// let b=20;
+// console.log(a*b);
+
+
+// let a=20;
+// let b=30;
+// console.log(a/b);
+// let a=10;
+// let b=10;
+// console.log(a%b);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
 
 
