@@ -278,6 +278,18 @@
 // let name ="mosh";
 // console.log(name);
 
+// let interestRate=0.3;
+// interestRate=1;
+// console.log(interestRate);
+
+let person={
+    name:"sandhiya",
+    age: 23
+}
+console.log(person);
+
+
+
 
 
 
