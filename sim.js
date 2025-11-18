@@ -267,6 +267,15 @@
 // // user 
 // console.log("Hello" + fname+ "!");
 
+let age1=10;
+let age2=6;
+ let total=age1+age2;
+ high=total>18;
+ console.log("age",total);
+ console.log("can we vote",high)
+ 
+
+
 
 
 
