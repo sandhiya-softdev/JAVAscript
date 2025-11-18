@@ -215,6 +215,76 @@
 // let b=10;
 // console.log(a%b);
 
+// let a=12;
+// let b=6;
+// let c=18;
+// console.log(a+b<c);
+
+// let x=7;
+// let y=6;
+// let z=42;
+// console.log(x*y==z);
+
+// let p=20;
+// let q=3;
+// let r=2;
+// console.log(p%q!=r);
+
+// let m=15;
+// let n=15;
+// console.log(m===n);
+
+// let age=25;
+// console.log(age>=18);
+
+// let score1=1;
+// let score2=75;
+// console.log(score1<score75);
+
+// let num1=10;
+// let num2="10";
+// console.log(num1==num2);
+
+// let a=9;
+// let b=4;
+// let c=3;
+// console.log((a-b)>c);
+
+
+// let x=8;
+// let y=2;
+// console.log((x/y)<=4);
+
+// let p=14;
+// let q=5;
+// console.log((p%q)>=4);
+
+
+
+// let fname= prompt("sandhiya:");
+// let age= Number(prompt("23"));
+
+// // user 
+// console.log("Hello" + fname+ "!");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
