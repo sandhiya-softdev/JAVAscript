@@ -282,11 +282,20 @@
 // interestRate=1;
 // console.log(interestRate);
 
-let person={
-    name:"sandhiya",
-    age: 23
-}
-console.log(person);
+// let person={
+//     name:"sandhiya",
+//     age: 23
+// }
+// console.log(person);
+
+// let a=5;
+// let b=++a;
+// console.log(a,b);
+
+
+
+
+
 
 
 
