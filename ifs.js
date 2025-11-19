@@ -674,6 +674,40 @@
 // }
 
 
+// check if a person can drive;
+// age>=18 can drive
+// else="cannot drive"
+
+// let age=20;
+// if(age>=18){
+//     console.log("can drive");
+    
+// }else{
+//     console.log("cannot drive")
+// }
+
+// check if a number is divisible by 6.
+
+// let n=25;
+// if(n*5){
+//     console.log("good");
+    
+// }else{
+//     console.log("not good")
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
