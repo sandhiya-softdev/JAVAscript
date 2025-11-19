@@ -532,16 +532,20 @@
 // }else{
 //     console.log("good value");
 // }
- let high=90;
+//  let high=90;
 
-switch (high){
-    case 45:
-    console.log("num");
-    break;
-    default:
-        console.log("not num")
+// switch (high){
+//     case 45:
+//     console.log("num");
+//     break;
+//     default:
+//         console.log("not num")
     
-}
+// }
+
+
+
+
 
 
 
