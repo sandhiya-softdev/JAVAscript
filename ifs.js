@@ -624,6 +624,65 @@
 // }
 
 
+// check if a year is a leap year
+// divisible by 4 and not divisible by 100
+// or divisible by 400
+
+
+// let year=2024;
+// if(2024>100){
+//     console.log(2024/4);
+    
+// }else {
+//     console.log(2024/400)
+// }
+
+// Ticket price discount
+// if age<12 -50% discount
+// if age>=12 and age<=18-25%
+// else no discout
+
+// let age=16;
+// if(age<12){
+//     console.log("50% discount");
+    
+// }else if(age>=12&&age<=18){
+//     console.log("25% discount")
+// }else{
+//     console.log("no discount")
+// }
+
+// 9.check if a user is allowed to login
+
+// let username="admin";
+// let password="4321";
+// if(username==="admin" &&password==="4321"){
+//     console.log("access granted");
+    
+// }else{
+//     console.log("access denied");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
