@@ -647,6 +647,31 @@
 // }
 
 
+// print numbers from 1 to 10.
+
+// let num=1;
+// for(num=1;num<=10;num++){
+//     console.log(num);
+    
+// }
+  
+// let num=10;
+// for(num=10;num>=1;num--){
+//     console.log(num);
+    
+// }
+
+// print even numbers from 2 to 20
+
+// let num=2;
+// for(num=2;num<=20;num++){
+//     if(num%2 ===0)
+//         console.log(num);
+        
+    
+    
+// }
+
 
 
 
