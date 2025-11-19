@@ -543,6 +543,105 @@
     
 // }
 
+// write an if statement that prints "positive" if the number is greater than 0.
+
+// let num=5;
+
+// // greather than 0
+// if (num>0){
+//     console.log("number is positive");
+    
+// }
+
+
+// print "adult" if age is 18 more, otherwise print"minor"
+//  let age=14;
+//  if(age>18){
+//     console.log("adult");
+    
+//  }else{
+//     console.log("minor")
+//  }
+
+
+// check if a numbers is even or odd
+// use % (modulus)
+
+// let n=9;
+// if(9%2===0){
+//     console.log("even");
+    
+// }else{
+//     console.log("odd");
+// }
+
+
+// grade system
+
+// print:
+// "A" if score>=90;
+// "b" if score>=80;
+// "c" if score>=70;
+// otherwise "d"
+
+
+// let score=76;
+// if(score>=90){
+//     console.log("a");
+    
+// }else if(score>=80){
+//     console.log("b");
+// }else if(score>=70){
+//     console.log("c");
+// }else{
+//     console.log("d");
+// }
+
+
+// check if a password is strong
+// print "strong" if password lenth>=8.
+// otherwise print"weak";
+
+// let password="abc123";
+// if(password>=8){
+//     console.log("strong");
+    
+// }else{
+//     console.log("weak")
+// }
+//
+
+// find the largest of two number
+// print the larger number
+
+// let a=10;
+// let b=25;
+// if(a<b){
+//     console.log("large");
+    
+// }else{
+//     console.log("small")
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
