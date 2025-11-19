@@ -663,6 +663,11 @@
 //     console.log("access denied");
 // }
 
+// check if a number is negative, zero and positive
+
+let num=-3;
+if(num)
+
 
 
 
