@@ -665,8 +665,16 @@
 
 // check if a number is negative, zero and positive
 
-let num=-3;
-if(num)
+// let num=-3;
+// if(num<2){
+//     console.log("postive");
+    
+// }else{
+//     console.log("negative")
+// }
+
+
+
 
 
 
