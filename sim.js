@@ -292,6 +292,74 @@
 // let b=++a;
 // console.log(a,b);
 
+// let a=2;
+// let b=++a;
+// console.log(a,b);
+
+
+// let a=4;
+// let b=++a;
+// console.log(a,b);
+
+
+// let a=1;
+// // let b=++a; ++a changes the value of the a
+// console.log(a,b);
+
+// let a=2;
+// let b=++a;
+// console.log(a,b);
+
+// let a=3;
+// let b=++a;
+// console.log(a,b);
+
+// let a=4;
+// let b=++a;
+// console.log(a,b);
+
+// let a=5;
+// let b=++a;
+// console.log(a,b);
+
+
+// let a=6;
+// let b=++a;
+// console.log(a,b);
+
+
+// let a=7;
+// let b=++a;
+// console.log(a,b);
+
+// let a=8;
+// let b=++a;
+// console.log(a,b);
+
+
+// let a=9;
+// let b=++a;
+// console.log(a,b);
+
+
+// let a=10;
+// let b=++a;
+// console.log(a,b);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
