@@ -76,6 +76,16 @@
 // console.log(a);
 
 
+// SPLICE means the we can delte the particular element
+
+// let fan=["wings", "battory", "lion"];
+// fan.splice(1,1,"san");
+// console.log(fan);
+
+// slice 
+
+
+
 
 
 
