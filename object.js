@@ -50,5 +50,12 @@
 
 
 // delete the property
+//  let on={
+//       airplane:"air",
+//       car:"car speed"
+//  }
+//  delete on.airplane;
+// console.log(on);
+
 
 
