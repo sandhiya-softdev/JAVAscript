@@ -346,6 +346,180 @@
 // let b=++a;
 // console.log(a,b);
 
+// GREETINGS MESSAGE
+// let name="hello";
+// alert("hello"+"sandhiya");
+
+
+// let a=5;
+// let b=10;
+// let sum=a+b;
+// console.log("sum:",sum);
+
+
+
+// let age=18;
+// if (age>=18){
+//     console.log("you are an adult");
+    
+// }else{
+//     console.log("you are a minor")
+// }
+
+
+// for(let i=1;i<=5;i++){
+//     console.log(i);
+    
+// }
+
+// we use array and loop
+// let colors=["rad","orange", "purple","green"]
+// for (let i=0;i<colors.length;i++)
+//     console.log(colors[i]);
+    
+
+
+// student details
+// let student={
+//     name: "ahs",
+//     age:20,
+//     grade:"a"
+// }
+// console.log(student.name);
+// console.log(student.age);
+// console.log(student.grade);
+
+
+// let x=10;
+// let y=7;
+// if(x>y){
+//     console.log("x is larger");
+    
+// }else{
+//     console.log("y is larter");
+// }
+
+
+// let username="admin";
+// let password="1234";
+// if(username==="admin" && password==="1234"){
+// console.log("login successful");
+// }else{
+//     console.log("login failed")
+// }
+
+
+// multuple numbers in an array
+// let numbers=[2,3,4];
+// let total=1;
+// for(let i=0;i<numbers.length;i++){
+//     total=total*numbers[i];
+// }
+// console.log("result:", total);
+
+
+
+
+// let num=7;
+// if(num%2===0){
+//     console.log("Even");
+    
+// }else{
+//     console.log("odd")
+// }
+
+
+// variables and da;ta types practice
+// let fname="sandhiya";
+// let age=20;
+// let isStudent=true;
+// console.log(fname,age,isStudent);
+
+
+
+// operators practice
+// let a=10;
+// let b=5;
+// console.log("sum:",a+b);
+// console.log("difference:",a-b);
+// console.log("product",a*b);
+// console.log("division:",a/b);
+// console.log("remainder",a%b);
+
+
+// let num=-3;
+// if(num>0){
+//     console.log("positive");
+    
+// }else if(num<0){
+//     console.log("negative")
+// }else{
+//     console.log("zero")
+// }
+
+// PRINT NUMBERS FROM 1 TO 10 USING A FOR LOOP
+
+// for(let i=1;i<=10;i++){
+//     console.log(i);
+    
+// }
+
+// for(let i=2;i<=20;i+=2){
+//     console.log(i);
+    
+// 
+// }
+// Array practicce
+// let fruits=["apple", "banana", "mango"];
+// for(let i=0;i<fruits.length;i++){
+//     console.log(fruits[i]);
+    
+// }
+
+
+// let fruits=["apple", "beetfoot", "carrto", "green apple"];
+// for(let i=0; i<fruits.length;i++){
+//     console.log(fruits[i]);
+    
+// }
+// let numbers=[2,5,10];
+// let sum=0;
+// for(let i=0;i<numbers.length;i++){
+// sum=sum+numbers[i];
+    
+// }
+// console.log("sum:",sum);
+  
+// let numbers=[2,3,10];
+// let sum=0;
+// for(let i=0;i<numbers.length;i++){
+//     sum=sum*numbers[i];
+// }
+// console.log("sum:",sum);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
