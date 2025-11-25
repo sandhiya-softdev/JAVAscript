@@ -497,6 +497,25 @@
 // }
 // console.log("sum:",sum);
 
+// combined mini projects
+
+// let nums=[1,2,3,4,5];
+// for(let i=0;i<nums.length;i++){
+//     if(nums[i])
+// }
+
+// let students =[
+//     {name:"asha", marks:[80,75,90]},
+//     {name:"rave", marks:[60,55,70]},
+//     {name:"meena", marks:[95,92,88]}
+// ];
+// for (let i=0;i<students.length;i++){
+//     let students=students[i]
+// }console.log(students[i]);
+
+
+
+
 
 
 

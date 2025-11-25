@@ -673,6 +673,96 @@
 // }
 
 
+// write a for loop that prints numbers 1 to 5
+// let i=1;
+// for (i=1;i<=5;i++){
+//     console.log(i);
+    
+// }
+
+
+// write a for loop that prints numbers from 2 to 10.
+// let i=2;
+// for(i=2;i<=10;i+=2){
+//     console.log(i);
+    
+// }
+
+
+// write a for loop prints the numbers 10 down to 1
+
+// let i=10;
+// for(i=10;i>=0;i--){
+//     console.log(i);
+    
+// }
+
+// 
+
+// write a for loop that prints the mull
+// let i =1;
+// for (i=1;i<=10;i++){
+//      console.log("5 x " + i + " = " + (i * 5));
+    
+// }
+
+// write a for loop that prints the number 1 to 5.
+// for (let i=1;i<=5;i++){
+//     console.log(i);
+    
+// }
+// write a for-loop that prints numbers 10 down to 1,
+// let i=10;
+// for ( let i=10;i>=1;i--){
+//     console.log(i);
+    
+// }
+
+
+// let i=2;
+// for (let i=2;i<=20;i+=2){
+//     console.log(i);
+    
+// }
+
+// let i=1;
+// for(let i=1;i<=10;i++){
+//     console.log("7 x " + i +"="+(i *7));
+    
+// }
+
+// let sum=0;
+// for(i=1;i<=4;i++){
+//     console.log(sum);
+//     sum=sum+i;
+    
+// }
+
+
+// let prices=[1200,800,300];
+// let sum=0;
+// for (let i=0; i<prices.length;i++){
+//     sum=sum+prices[i];
+// }
+// console.log(sum);
+
+// let sum=0;
+// for (i=1;i<=5;i++){
+//     sum=sum+i;
+// }
+// console.log(sum);
+
+
+// let i=1;
+// for (i=1;i<=5;i++){
+//     console.log(i*2);
+
+// }
+
+
+
+
+
 
 
 

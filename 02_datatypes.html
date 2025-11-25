@@ -6,12 +6,40 @@
     <title>Document</title>
 </head>
 <body>
-    on
+ <!-- <p id ="on">
+    dhiya
+</p>
     <script>
-     let name="hello";
-       alert("hello"+ "sandhiya");
+        var things=document.getElementById("on")
+       console.log(things.textContent);
+       things.textContent="sandhiya"
+        
+        
+    </script> -->
+    <h1 id="title">
+        hello world
+    </h1>
+    <button onclick="change()">change</button>
+
+    <script>
+        var on=document.getElementById("title");
+        console.log(on.textContent)
+        
+        function change()
+        {
+            on.textContent="bye world"
+        }
+        
+
+
         
     </script>
-    
+
+
+
+
+
+
+
 </body>
 </html>
