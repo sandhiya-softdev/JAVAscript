@@ -758,6 +758,59 @@
 //     console.log(i*2);
 
 // }
+//  let i=1;
+//  for(i=1;i<=15;i=i+2){
+//     console.log(i);
+    
+//  }
+
+// let sum=0
+// for(i=1;i<=15;i=i+2){
+//     console.log(i);
+//     sum=sum+i;
+    
+// }
+// console.log(sum);
+
+
+
+// for (let i=1;i<=10;i++){
+//     console.log("7 x"+i+"="+(7*i));
+    
+// }
+
+// let sum=0;
+// for(i=2;i<=20;i=i+2){
+//     console.log(i);
+//     sum=sum+i;
+    
+// }
+// console.log(sum)
+
+
+// let i=1;
+// for(i=1;i<=10;i++){
+//   console.log("9 x"+i+"="(i*9));
+  
+    
+// }
+
+// for (let i=1;i<=20;i++){
+//     console.log("7x"+i+"="+(i*7));
+    
+// }
+
+// let sum=0;
+// for(i=1;i<=10;i++){
+//     console.log("5 x"+i+"="+(5*i));
+//     sum=sum+(5*i);
+    
+// }
+// console.log(sum)
+
+
+
+
 
 
 
