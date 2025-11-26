@@ -29,6 +29,62 @@
 // });
 
 
+// let fruits = ["apple", "banana", "orange"];
+// for (let i=0;i<=fruits.length;i++){
+//     console.log(fruits[i]);
+    
+// }
+// let fruits =["apple", "banana", "orange"];
+// fruits.forEach(fruits=>
+// {
+//     console.log(fruits);
+    
+// }
+// )
+
+// includes items iruka ah illaye pakkurathu
+// getting true or false
+// let frnds=["sathya", "viki", "krishna"];
+// console.log(frnds.includes("krishna"));
+
+
+// let frnds=["sathya", "viki", "krishna"];
+// console.log(frnds.includes("jeni"));
+// getting flase
+
+// indexof() find the position of an item
+// let frnds=["vikki","sathya","krishna"];
+// console.log(frnds.indexOf("vikki"));
+
+
+// real time projects
+
+// let todo =["wake up", "drinking water", "washroom"];
+// todo.push("study js")
+// todo.forEach(todo=>
+// {
+//     console.log(todo);
+    
+// }
+// )
+
+// let shopping=["milk","bread","eggs"];
+// shopping.push("butter");
+// shopping.pop();
+// shopping.forEach(shopping=>
+//     {
+//         console.log(shopping);
+        
+//     }
+// )
+
+
+
+
+
+
+
+
 
 
 
