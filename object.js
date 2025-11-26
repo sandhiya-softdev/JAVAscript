@@ -68,6 +68,76 @@
 // console.log(person.name);
 
 
+// let person={
+//     name:"jeni",
+//     age:22,
+//     city:"vadalur"
+// }
+// console.log(person.city);
+
+
+
+// let things={
+//     laptop:"up",
+//     bottle:"silver"
+
+// }
+// console.log(things.bottle);
+
+
+// let poo={
+//     types:"sunflower",
+//     amount:"2500"
+// }
+// console.log(poo.amount);
+
+
+
+// group of related sentected together
+
+// let sammy={
+//     hindu:"murugan",
+//     christian:"jesus",
+//     muslim:"allah"
+// }
+// console.log(sammy.christian);
+
+
+// let computers={
+//     types:"vsus",
+//     amount:25
+
+// }
+// console.log(computers.amount);
+
+
+// we can use this [] access we can do it
+
+// let youtube={
+//     fav:"nfrm",
+//     watch:25
+// }
+// console.log(youtube["fav"]);
+
+
+// let xerox={
+//     color:"white",
+//     scan:"computer"
+// }
+// console.log(xerox["color"]);
+
+
+let switch={
+    
+}
+
+
+
+
+
+
+
+
 
 
 
