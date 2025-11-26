@@ -815,9 +815,38 @@
     
 // }
 // console.log(sum)
+// let sum=0;
+// for(i=1;i<=10;i++){
+//     console.log("8 x"+i+"="+(8*i));
+//     sum=sum+(8*i)
+    
+// }
+// console.log(sum)
+
+// let sum=0;
+// for(i=1;i<=20;i++){
+//   let result=7*i;
+    
+
+// if(result % 2!==0){
+//  console.log("7 x" + i + "=" + result);
+//  sum=sum+result;
+ 
+// }
+// }
+// console.log(sum);
 
 
-for
+
+// let i=1;
+// let sum=0;
+// for(i=1;i<=10;i++){
+//     console.log("i x"+i+"="+(i*6));
+//     sum=sum+i*6;
+
+    
+// }
+// console.log(sum)
 
 
 
