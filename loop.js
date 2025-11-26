@@ -848,6 +848,16 @@
 // }
 // console.log(sum)
 
+// print only the even multiplication of the 7 tables
+// let i=1;
+// for(i=1;i<=10;i++){
+//     console.log(7*i);
+//     if(7*i%2==0);
+    
+// }
+
+
+
 
 
 
