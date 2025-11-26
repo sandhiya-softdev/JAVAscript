@@ -58,4 +58,16 @@
 // console.log(on);
 
 
+// let person={
+//     name:"sandhiya",
+//     age:23,
+//     city:"chennai"
+
+    
+// };
+// console.log(person.name);
+
+
+
+
 
