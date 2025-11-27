@@ -696,8 +696,62 @@
 //     console.log("not good")
 // }
 
+// let num=20;
+// if(num>10){
+//     console.log("big number");
+    
+// }else{
+//     console.log("nothing")
+// }
 
 
+// let num=7;
+// if(num%2==0){
+//     console.log("even");
+    
+// }else{
+//     console.log("odd")
+// }
+
+
+// let num=-5;
+// if(num>=0){
+//     console.log("positive");
+    
+// }else{
+//     console.log("negative")
+// }
+
+
+
+// 1.if a number is less than 5, print "small number"
+// let num=3;
+// if(num<5){
+//     console.log("small number");
+    
+// }else{
+//     console.log("sbig numer")
+// }
+
+
+// 2.if a number is equal to 100, print"perfect score"
+// let num=100;
+// if(num===100){
+//     console.log("perfect score");
+    
+// }else {
+//     console.log("nothings")
+// }
+
+// 3.if a number is even, print"even"
+
+// let num=11;
+// if(num%2===0){
+//     console.log("even");
+    
+// }else{
+//     console.log("not")
+// }
 
 
 

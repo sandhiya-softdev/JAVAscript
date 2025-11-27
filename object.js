@@ -127,9 +127,54 @@
 // console.log(xerox["color"]);
 
 
-let switch={
+// let vehices={
+//     scoty:"tvs",
+//     ktm:"mathi"
+// }
+// console.log(vehices["scoty"]);
+
+
+
+// let person={
+//     name:"sandhiya",
+//     age:23,
+//     married:true
+// }
+// person.love="unlove";
+// console.log(person);
+
+// let dude={
+//     actor:"pr",
+//     actress:"mamitha",
+//     music:"abi"
+// }
+// dude.director="gee"
+// console.log(dude);
+
+
+
+// let lights={
+//     small:"red",
+//     big:"green"
+// }
+// lights.on="grey"
+// console.log(lights);
+
+
+// let person={name:"sandhiya",age:23}
+// for(let key in person){
+//     console.log(key+"="+person[key]);
     
+// }
+
+
+let person={
+    name:"sandhiya",
+    age:23,
+
 }
+console.log(person);
+
 
 
 
