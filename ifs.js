@@ -785,17 +785,296 @@
 
 // if temp>25 print"warm"
 
-let temp=30;
-if(temp>25){
-    console.log("warm");
+// let temp=30;
+// if(temp>25){
+//     console.log("warm");
+    
+// }else{
+//     console.log("not warm")
+// }
+
+
+
+// if score>50 print"good"
+// let score=90;
+// if(score>60){
+//     console.log("good");
+    
+// }else{
+//     console.log("not good")
+// }
+
+// if height>=150print"tall"
+// let height=150;
+// if(height>=150){
+//     console.log("tall");
+    
+// }else{
+//     console.log("not tall")
+// }
+
+// 3.if speed>60 print"fast"
+// let speed=130;
+// if (speed>60){
+//     console.log("fasst");
+    
+// }else{
+//     console.log("not fasts")
+// }
+
+// if money>=500 print "enough money"
+// let money=500;
+// if(money>=500){
+//     console.log("enough money");
+    
+// }else{
+//     console.log("not enough money")
+// }
+
+
+// 5.if number>0print "positive"
+// let numbers=10;
+// if(numbers>0){
+//     console.log("positive");
+    
+// }else{
+//     console.log("not positive")
+// }
+
+// if age>=60 print"senior citizen"
+// let age=60;
+// if(age>=60){
+//     console.log("senior citizen");
+    
+// }else{
+//     console.log("not citizen")
+// }
+
+
+// 2. if marks<35 print"fail"
+// let marks=23;
+// if(marks<35){
+//     console.log("fail");
+    
+// }else{
+//     console.log("pass")
+// }
+
+
+// if num===0 print'zero"
+// let num=24;
+// if(num%2===0){
+//     console.log("zero");
+    
+// }else {
+//     console.log("not zero")
+// }
+
+// 5.if price<=1000 print "cheap"
+// let price=100;
+// if(price>=100){
+//     console.log("cheap");
+    
+// }else{
+//     console.log("not cheap")
+// }
+
+
+// if rain===true print "take umbrella"
+// let rain=true;
+// if(rain===true){
+//     console.log("take umbrella");
+    
+// }else{
+//     console.log("no need")
+// }
+
+
+// if a>b print"a is bigger"
+// let a=100;
+// if(a>b){
+//     console.log("a is bigger");
+    
+// }else{
+//     console.log("not bigger")
+// }
+
+// if score===100 print"perfect score"
+// let score=100;
+// if(score===100){
+//     console.log("perfect score");
+    
+// }else{
+//     console.log("not perfect")
+// }
+
+// if speed<40 print"slow"
+// let speed=20;
+// if(speed<40){
+//     console.log("slow");
+    
+// }else{
+//     console.log("not slow")
+// }
+
+// if num%5===0 print "divisible by 5"
+// let num=30;
+// if(num%5===0){
+//     console.log("great");
+    
+// }else{
+//     console.log("not good")
+// }
+
+// if age
+// let age=13;
+// if(age>=13){
+//     console.log("teen");
+    
+// }else{
+//     console.log("not team")
+// }
+
+// let num=-1;
+// if(num<0){
+//     console.log("negative");
+    
+// }else{
+//     console.log("not negative")
+// }
+
+// let marks=100;
+// if(marks===100){
+//     console.log("full mark");
+    
+// }else{
+//     console.log("not atall")
+// }
+
+// let temp=-0;
+// if(temp<=0){
+//     console.log("freezing");
+    
+// }else{
+//     console.log("not freezing")
+// }
+
+
+// let num=20;
+// if(num%2===0){
+//     console.log("even");
+    
+// }else{
+//     console.log("odd")
+// }
+
+// let speed=190;
+// if(speed>120){
+//     console.log("over speed");
+    
+// }else{
+//     console.log("not speed")
+// }
+
+// let weight=40;
+// if(weight<50){
+//     console.log("light");
+    
+// }else{
+//     console.log("not light")
+// }
+
+// let price=600;
+// if(price>500){
+//     console.log("expensive");
+    
+// }else{
+//     console.log("not expensive")
+// }
+
+// let battery=100;
+// if(battery===100){
+//     console.log("fullyy charge");
+    
+// }else{
+//     console.log("not charged")
+// }
+// let height=50;
+// if(height<100){
+//     console.log("too short");
+    
+// }else{
+//     console.log("not short")
+// }
+
+// nnnnnnnnnnnnnnn
+// let score=90;
+// if(score>=90){
+//     console.log("excellent");
+    
+// }else{
+//     console.log("not excellent")
+// }
+
+
+// let num=30;
+// if(num%3===0){
+//     console.log("divisible by 3");
+    
+// }else{
+//     console.log("not divible")
+// }
+
+// let username="admin";
+// if(username==="admin"){
+//     console.log("welcome admin");
+    
+// }else{
+//     console.log("not welcome")
+// }
+
+// let password="raya";
+// if(password.length<6){
+//     console.log("weak password");
+    
+// }else{
+//     console.log("not perfect password")
+// }
+
+// let marks=35;
+// if(marks>=35){
+//     console.log("pass");
+    
+// }else{
+//     console.log("not")
+// }
+
+
+// let waterlevel=90;
+// if(waterlevel>80){
+//     console.log("overflow warning");
+    
+// }else{
+//     console.log("not at all")
+// }
+
+
+// let distance=120;
+// if(distance>80){
+//     console.log("very near");
+    
+// }else{
+//     console.log("not at all")
+// }
+
+
+let amount=0;
+if(amount<=0){
+    console.log("no balance");
     
 }else{
-    console.log("not warm")
+    console.log("not at all")
 }
-
-
-
-
 
 
 
