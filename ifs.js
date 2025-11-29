@@ -753,6 +753,47 @@
 //     console.log("not")
 // }
 
+// 4.if a number is odd,print"odd"
+
+// let num=13;
+// if(num%2!==0){
+//     console.log("odd");
+    
+// }else{
+//     console.log("even");
+// }
+
+// 5.if age is 18 or above, print"adult",
+// let age=20;
+// if(age>=18){
+//     console.log("adult");
+    
+// }else{
+//     console.log("kid")
+// }
+
+// if marks >=35 print "pass"
+// let marks=35;
+// if(marks>=35){
+//     console.log("pass");
+    
+// }else{
+//     console.log("fail")
+// }
+
+
+
+// if temp>25 print"warm"
+
+let temp=30;
+if(temp>25){
+    console.log("warm");
+    
+}else{
+    console.log("not warm")
+}
+
+
 
 
 
