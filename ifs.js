@@ -1068,19 +1068,123 @@
 // }
 
 
-let amount=0;
-if(amount<=0){
-    console.log("no balance");
+// let amount=0;
+// if(amount<=0){
+//     console.log("no balance");
+    
+// }else{
+//     console.log("not at all")
+// }
+
+
+// let color="red";
+// if(color==="red"){
+//     console.log("danger");
+    
+// }else{
+//     console.log("not at all")
+// }
+  
+
+// let num=100;
+// if (num%10===0){
+//     console.log("danger");
+    
+// }else{
+//     console.log("not at all")
+// }
+
+
+// level 3
+
+// let a=10;
+// let b=5;
+// if(a>b){
+//     console.log("a is bigger");
+    
+// }else{
+//     console.log("not bigger")
+// }
+
+
+// let number=40;
+// if(number%4===0){
+//     console.log("multiple by 4");
+    
+
+// }else{
+//     console.log("not by 4")
+// }
+
+// let temp=50;
+// if(temp>35){
+//     console.log("too hot");
+    
+// }else{
+//     console.log("not good")
+// }
+
+// let temp=30;
+// if(temp<20){
+//     console.log("too cold");
+    
+// }else{
+//     console.log("not cold")
+// }
+
+
+
+// let rating=4.5;
+// if(rating>=4.5){
+//     console.log("top rated");
+    
+// }else{
+//     console.log("not rated")
+// }
+
+
+// let age=30;
+// if(age<1){
+//     console.log("infant");
+    
+// }else{
+//     console.log("not infant")
+// }
+
+
+// let year=2025;
+// if(year===2025){
+//     console.log("current year");
+    
+// }else{
+//     console.log("not year")
+// }
+
+// let salary=10000;
+// if(salary<10000){
+//     console.log("low salary");
+    
+// }else{
+//     console.log("not good salry")
+// }
+
+
+// let marks=100;
+// if(marks%2===0){
+//     console.log("absent");
+    
+// }else{
+//     console.log("not absent")
+// }
+
+
+let speed=20;
+if(speed<=20){
+    console.log("very slow");
     
 }else{
-    console.log("not at all")
+    console.log("not slow")
 }
-
-
-
-
-
-
 
 
 
