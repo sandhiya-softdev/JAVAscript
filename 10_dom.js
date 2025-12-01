@@ -35,9 +35,49 @@ gn.textContent="Programming is powerful";
 
 let dp=document.getElementById("description");
 console.log(dp.textContent);
-dp.textContent="I love learning DOM"
+dp.textContent="I love learning DOM";
 
 
+let we=document.getElementById("text");
+console.log(we.textContent);
+we.textContent="This is updated now";
+
+var you=document.getElementById("sendBtn");
+console.log(you.textContent);
+you.textContent="submit";
+
+let quick=document.getElementById("loginBtn");
+console.log(quick.textContent);
+quick.textContent="Sign In";
+
+
+var op=document.getElementById("playBtn");
+console.log(op.textContent);
+op.textContent="Start";
+
+
+// practice with DOM,
+
+ var gswitch=document.getElementById("head1");
+ console.log(gswitch.textContent);
+ gswitch.textContent="New Title";
+
+ let rate=document.getElementById("msg");
+ console.log(rate.textContent);
+ rate.textContent="HI"
+
+
+ const yen=document.getElementById("btn1");
+ console.log(yen.btn1);
+ yen.btn1="Submit";
+
+
+ var peo=document.getElementById("topic");
+ console.log(peo.topic);
+ peo.topic="DOM"
+
+
+//  LEVEL 2 PRACTICE QUESTIONS
 
 
 
