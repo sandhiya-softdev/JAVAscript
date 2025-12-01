@@ -3,16 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DOM</title>
+    <title>Document object model</title>
 </head>
 <body>
-    <P id="two">doument object model</P>
+    <p id="one">Doument object model</p>
+    <hr>
+    <!-- change a heading
+     create an <h1 id="titile">hello<h1>and using js change it to welcome -->
+        <h1 id="title">Hello</h1>
+        <hr>
+
+    <!-- change paragraph text 
+     create a <p id="info">this is a paragraph</p> and change it to "updated paragrah"-->
+     <p id="info">This is a paragraph</p>
+     <hr>
+
+     <!-- change a button name
+      a button <button id="btn">click</button>change the button text to sumbit -->
+
+      <button id="btn">Click</button>
+
+      <!-- change color
+       an element <p id="color text">color me</p> usig js change the color to red -->
+    
+    <p id="colortext" style="color: blue; border: 2px solid black; width: 60px;">Color me</p>
+      
+
+
 </body>
-<script>
-    let things=document.getElementById("two");
-  console.log(things.textContent);
-  things.textContent="sandhiya";
-  
-  
+<script src="10_dom.js">
+
 </script>
 </html>
