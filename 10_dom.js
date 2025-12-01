@@ -68,16 +68,24 @@ op.textContent="Start";
 
 
  const yen=document.getElementById("btn1");
- console.log(yen.btn1);
- yen.btn1="Submit";
+ console.log(yen.textContent);
+ yen.textContent="Submit";
 
 
  var peo=document.getElementById("topic");
- console.log(peo.topic);
- peo.topic="DOM"
+ console.log(peo.textContent);
+ peo.textContent="DOM"
 
 
 //  LEVEL 2 PRACTICE QUESTIONS
+
+var off=document.getElementById("num1");
+console.log(off.textContent);
+off.textContent="40";
+
+// level 3 practice questions
+
+
 
 
 
