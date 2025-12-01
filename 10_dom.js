@@ -18,8 +18,27 @@ var yet=document.getElementById("btn");
 console.log(yet.textContent);
 yet.textContent="submit"
 
-var high=document.getElementById("colorText");
+
+var high=document.getElementById("mainHead")
 console.log(high.textContent);
-high.textContent="green"
+high.textContent="DOM Practice"
+
+let pon=document.getElementById("titleName")
+console.log(pon.textContent)
+pon.textContent="Welcome Student"
+
+
+let gn=document.getElementById("para1");
+console.log(gn.textContent);
+gn.textContent="Programming is powerful";
+
+
+let dp=document.getElementById("description");
+console.log(dp.textContent);
+dp.textContent="I love learning DOM"
+
+
+
+
 
 
