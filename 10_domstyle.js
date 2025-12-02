@@ -30,9 +30,9 @@ console.log(op.style.color);
 op2.style.color="yellow";
 
 
-// we are using array methods is this list items
- var th=document.getElementById("x");
- th[0].style.color="pink";
- th[1].style.color="purple";
- th[2].style.color="blue";
+// change the colors
+
+var vv=document.getElementById("msg");
+console.log(vv.style.color);
+vv.style.color="blue";
 
