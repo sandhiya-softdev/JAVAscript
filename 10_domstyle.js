@@ -36,3 +36,34 @@ var vv=document.getElementById("msg");
 console.log(vv.style.color);
 vv.style.color="blue";
 
+
+var gh=document.getElementById("head");
+console.log(gh.style.fontSize);
+gh.style.fontSize="40px";
+gh.style.color="green"
+
+// change background color
+
+var yy=document.getElementById("box");
+console.log(yy.style.background);
+yy.style.background="yellow";
+yy.style.padding="20px";
+
+
+// change the border 2px solid black;
+
+var gn=document.getElementById("para");
+console.log(gn.style.border);
+gn.style.border="2px solid red";
+
+// level 2 change two elements styles differently
+var live=document.getElementById("p1");
+console.log(live.style.color);
+live.style.color="green";
+
+
+var live1=document.getElementById("p2");
+console.log(live1.style.color);
+live1.style.color="purple";
+
+
