@@ -67,3 +67,12 @@ console.log(live1.style.color);
 live1.style.color="purple";
 
 
+// change width and height
+
+var re=document.getElementById("smallBox");
+console.log(re.style.width);
+re.style.width="150px";
+re.style.height="150px";
+re.sstyle.background="pink";
+
+
