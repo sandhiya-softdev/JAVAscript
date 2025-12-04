@@ -41,6 +41,30 @@
 
 
 
-document
+// var off=document.getElementsByTagName("div");
+// console.log(off);
+// for(var i=0;i<off.length;i++){
+//     if(i%2==0){
+//         off[i].style.background="pink"
+//     }else{
+//         off[i].style.background="yellow"
+//     }
+// }
+
+// var lets=document.getElementsByTagName("li");
+// console.log(lets);
+// lets[0].style.fontSize="10px";
+// lets[1].style.fontSize="15px";
+// lets[2].style.fontSize="20px";
+// lets[3].style.fontSize="25px";
+// lets[4].style.fontSize="30px";
+
+
+
+
+
+
+
+
 
 
