@@ -3,17 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple project</title>
+    <title>Document</title>
 </head>
 <body>
-    <input type="text" placeholder="i like to eat " id="input-food">
-    <button id="input-btn">sumbit</button>
-
+     <ul>
+        <li>car</li>
+        <li>Bike</li>
+        <li>Bus</li>
+        <li>Train</li>
+    </ul>
+    
+    
 </body>
 <script>
-   let on= document.getElementById("input-food");
-   let on1=document.getElementById("input-btn");
-    
-
+    var on=document.getElementsByTagName("li");
+console.log(on);
+for(var i=0;i<on.length;i++){
+if(i%2==0){
+    on[i].style.color="green";
+}else{
+    on[i].style.color="blue";
+}
+}
 </script>
 </html>
