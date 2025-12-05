@@ -24,10 +24,25 @@ color();
 // say good morning
 
 function morning(){
-    console.log("Good morning")
+    console.log("Good morning");
 }
 morning();
 
 
+// create a functions called greet(name)
+
+function greet(name){
+    console.log("hello "+ name);
+}
+greet("ahsa");
+
+
+// create a function called add(a,b)
+// inside console.log print a+b
+
+function add(a,b){
+    console.log(a+b);
+}
+add(5,3);
 
 
