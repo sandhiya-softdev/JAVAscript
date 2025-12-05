@@ -63,7 +63,24 @@
 // }
 // console.log(evenOrOdd(2));
 
-// 
+// write a function bigger(a,b)
+// function bigger(a,b){
+//     if(a>b){
+//         return a;
+//     }else{
+//         return b;
+//     }
+// }
+
+// console.log(bigger(10,3));
+
+// areaOfSquare 
+
+// function areaOfSquare(side){
+//     return side*side;
+// }
+// console.log(areaOfSquare(4));
+
 
 
 
