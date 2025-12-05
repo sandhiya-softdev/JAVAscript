@@ -48,6 +48,28 @@
 // console.log(square(4));
 
 
+// function getName(name){
+//     return "hello "+ name; 
+// }
+// console.log(getName("sandhiya"));
+
+// write a function evenOrOdd(n);
+// function evenOrOdd(n){
+//     if(n%2==0){
+//         return "even";
+//     }else{
+//         return "odd";
+//     }
+// }
+// console.log(evenOrOdd(2));
+
+// 
+
+
+
+
+
+
 
 
 
