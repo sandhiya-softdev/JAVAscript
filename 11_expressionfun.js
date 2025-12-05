@@ -40,9 +40,20 @@
 // console.log(evenOdd(7));
 
 
-const bigger=function(a,b){
-    
-}
+// const bigger=function(a,b){
+//     return(a>b) ? a:b;
+
+// }
+// console.log(bigger(2,1));
+
+
+// const welcome=function(name="guest"){
+//     return "welcome"+name
+// }
+// console.log(welcome());
+
+
+
  
  
 
