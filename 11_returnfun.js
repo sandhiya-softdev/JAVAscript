@@ -9,8 +9,15 @@
 // console.log(add(2,2));
 
 
-function square(n){
-    r
-}
+// function square(n){
+//     return n*n;
+// }
+// console.log(square(6));
+
+// function fullName(first, last){
+//     return first + ""+last;
+// }
+// console.log(fullName("sandhiya","p"));
+
 
 
