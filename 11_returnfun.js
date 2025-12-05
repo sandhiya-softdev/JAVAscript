@@ -95,6 +95,15 @@
 // }
 // console.log(subtract(10,3));
 
+// write a function triple
+
+// function triple(n){
+//     return n*3;
+// }
+// console.log(triple(5));
+
+
+
 
 
 
