@@ -81,6 +81,18 @@
 // }
 // console.log(areaOfSquare(4));
 
+// write a function fullName(first,last)
+
+// function fullName(first,last){
+//     return first + ""+ last; 
+// }
+// console.log(fullName("sandhiya","p"));
+
+
+
+
+
+
 
 
 
