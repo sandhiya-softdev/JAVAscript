@@ -26,3 +26,18 @@
 //     return a+b;
 // }
 // console.log((add(3,6)));
+
+
+
+// var greet=(name)=>{
+//     console.log("hello "+name);
+    
+// }
+// greet("dhiya");
+
+
+// var square=(n)=>{
+//     return n*n;
+// }
+// console.log((square(2)));
+
