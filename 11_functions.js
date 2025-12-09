@@ -89,4 +89,29 @@
 // }
 // numbers(10,20);
 
+// function bottle(things){
+//     console.log("hii bottle"+things);
+    
+// }
+// bottle("gn");
+// create a fun sayhi that takes 1 parameter:name
+// function sayHi(name){
+//     console.log("hi"+name);
+    
+// }
+// sayHi("sandhiya");
+
+// function addTwoNumbers(a,b){
+//     console.log(a+b);
+    
+// }
+// addTwoNumbers(10,10);
+
+// function food(item){
+//     console.log("i like"+item);
+    
+// }
+// food("biryani");
+
+function calc
 
