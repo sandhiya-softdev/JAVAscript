@@ -110,6 +110,13 @@
 // console.log(off);
 
 
+function happy(a,b){
+    return a*b;
+}
+ var janu = happy(2,2);
+ console.log(janu);
+
+ 
 
 
 
