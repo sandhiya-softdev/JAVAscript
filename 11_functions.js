@@ -113,5 +113,30 @@
 // }
 // food("biryani");
 
-function calc
+// function calc(a,b){
+//     console.log(a+b);
+//      console.log(a-b);
+//       console.log(a*b);
+    
+// }
+// calc(1,2);
 
+// function greetTime(time,name){
+//     console.log("good"+time+name);
+    
+// }
+// greetTime(6,"sandhiya");
+
+
+
+// function helloUser(name){
+//     console.log("hello "+name);
+    
+// }
+// helloUser("dhiya");
+
+// function double(num){
+//     console.log(num*2);
+    
+// }
+// double(8);
