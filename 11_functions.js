@@ -64,8 +64,29 @@
 // numbers();
 
 
-function numbers(a,b){
-    console.log(a*b);
+// function numbers(a,b){
+//     console.log(a*b);
     
-}
-numbers(2,4);
+// }
+// numbers(2,4);
+
+// function xeros(name){
+//     console.log("hii"+name);
+    
+// }
+// xeros("sandhiya");
+
+// function plug(name){
+//     console.log("hii"+name);
+    
+// }
+// plug("switch");
+
+
+// function numbers(a,b){
+//     console.log(a+b);
+    
+// }
+// numbers(10,20);
+
+
