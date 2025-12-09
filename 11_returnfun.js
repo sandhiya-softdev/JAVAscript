@@ -102,6 +102,13 @@
 // }
 // console.log(triple(5));
 
+// function ungal(x,y){
+//     return x+y;
+
+// }
+// var off=ungal(2,4);
+// console.log(off);
+
 
 
 
