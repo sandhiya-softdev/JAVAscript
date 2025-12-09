@@ -46,3 +46,7 @@ function add(a,b){
 add(5,3);
 
 
+function calender(){
+    console.log("2026");
+}
+calender();
