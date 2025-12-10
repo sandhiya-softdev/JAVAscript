@@ -71,7 +71,9 @@
 // }
 // console.log(square(5));
 
-const getName = function
+const getName = function(){
+    
+}
 
 
 
