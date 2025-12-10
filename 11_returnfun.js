@@ -169,6 +169,19 @@
 
 // }
 // console.log(favfood("briyani"));
+// function add(a,b){
+//     return a+b;
+
+// }
+// console.log(add(3,7));
+
+
+// function things(num){
+//     return num*num;
+
+// }
+// console.log(things(4));
+
 
 
 
