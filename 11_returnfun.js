@@ -183,6 +183,14 @@
 // console.log(things(4));
 
 
+// function isAdult(age){
+//     return age>=18;
+
+
+// }
+// console.log(isAdult(20));
+
+
 
 
 
