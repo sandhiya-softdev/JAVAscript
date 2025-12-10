@@ -59,6 +59,23 @@
 // }
 // greet();
 
+// const double = function(num){
+//     return num*2;
+
+// }
+// console.log(double(5));
+
+// const square = function (n){
+//     return n*n;
+
+// }
+// console.log(square(5));
+
+
+
+
+
+
 
 
 
