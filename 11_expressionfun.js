@@ -71,9 +71,24 @@
 // }
 // console.log(square(5));
 
-const getName = function(){
-    
-}
+// const getName = function(name){
+//     return "hello "+name;
+
+// }
+// console.log(getName("sandhiya"));
+
+// const add = function(a,b){
+//     return a+b;
+
+// }
+// console.log(add(2,5));
+
+
+// const isAdult = function(age){
+//     return age>12;
+
+// } 
+// console.log(isAdult(20));
 
 
 
