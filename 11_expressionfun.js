@@ -90,6 +90,10 @@
 // } 
 // console.log(isAdult(20));
 
+// const favfood = function(){
+//     return "biryani";
+// }
+// console.log(favfood());
 
 
 
