@@ -110,13 +110,32 @@
 // console.log(off);
 
 
-function happy(a,b){
-    return a*b;
-}
- var janu = happy(2,2);
- console.log(janu);
+// function happy(a,b){
+//     return a*b;
+// }
+//  var janu = happy(2,2);
+//  console.log(janu);
 
  
+// function fname(name){
+//     return name;
+// }
+// var things=fname("sandhiya");
+// console.log(things);
+
+// function sum(a,b){
+//     return a+b;
+    
+// }
+// console.log(sum(9,1));
+
+
+function square(a,b){
+    return a*b;
+}
+console.log(square(2,2));
+
+
 
 
 
