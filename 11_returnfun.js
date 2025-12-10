@@ -164,6 +164,14 @@
 // console.log(num(6));
 
 
+// function favfood(){
+//     return "briyani";
+
+// }
+// console.log(favfood("briyani"));
+
+
+
 
 
 
