@@ -130,12 +130,38 @@
 // console.log(sum(9,1));
 
 
-function square(a,b){
-    return a*b;
-}
-console.log(square(2,2));
+// function square(a,b){
+//     return a*b;
+// }
+// console.log(square(2,2));
 
 
+// function fname(name){
+//     return "hello "+name;
+// }
+// console.log(fname("sandhiya"));
+
+
+
+// function num(a,b){
+//     if(a>b){
+//         return a;
+//     }else{
+//         return b
+//     }
+
+// }
+// console.log(num(8,9));
+
+
+// function num (a){
+// if(a%2==0){
+//     return "even";
+// }else{
+//     return "odd";
+// }
+// }
+// console.log(num(6));
 
 
 
