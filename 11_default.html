@@ -6,6 +6,21 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <input type="text" id="username" placeholder=""enter name">
+    <button onclick="greetuser">greet</button>
 </body>
+<script>
+    function greet(name="guest"){
+        alert("hello " +name)
+    }
+    function greetuser(){
+        let user=document.getElementById("username").value;
+    
+    if(user===""){
+
+    }else{
+        greet(user);
+    }
+}
+</script>
 </html>
