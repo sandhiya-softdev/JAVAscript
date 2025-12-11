@@ -41,3 +41,23 @@
 // }
 // console.log((square(2)));
 
+// const greet=()=>{
+//     console.log("hi");
+    
+// }
+// greet();
+
+// const hight=(name)=>{
+//     console.log("hello"+name);
+    
+// }
+// hight("sandhiya");
+
+
+// const greet=(a,b)=>{
+//     return a*b;
+
+// }
+// console.log(greet(2,8));
+
+
