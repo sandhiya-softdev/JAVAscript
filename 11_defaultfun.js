@@ -42,3 +42,27 @@
     
 // }
 // welcome();
+
+// function printAge(){
+//     console.log("hii");
+    
+// }
+// printAge();
+
+// function hight(name="janaki") {
+//     console.log("hello"+name);
+    
+    
+// }
+// hight("sandhiya");
+// hight();
+
+function show(country) {
+    console.log("hi am "+country);
+    
+    
+}
+show("india");
+show();
+
+
