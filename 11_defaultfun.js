@@ -57,12 +57,49 @@
 // hight("sandhiya");
 // hight();
 
-function show(country) {
-    console.log("hi am "+country);
+// function show(country) {
+//     console.log("hi am "+country);
     
     
-}
-show("india");
-show();
+// }
+// show("india");
+// show();
+
+
+// function print(price="100") {
+//     console.log("price:"+price);
+    
+    
+// }
+// print("200");
+// print();
+
+
+// function pick(color="blue") {
+//     console.log("seclected color:"+color);
+    
+    
+// }
+// pick("purple");
+// pick();
+
+// function login(name="user") {
+//     console.log("welcome"+name);
+    
+    
+// }
+// login("sandhiya")
+// login();
+
+// function add(a,b=10){
+//     console.log(a,b);
+    
+// }
+// add(3,5);
+// add(10);
+
+
+
+
 
 
