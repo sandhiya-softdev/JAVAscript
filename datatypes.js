@@ -244,6 +244,19 @@
 // console.log(vehicles);
 // console.log(vehicles.brand);
 
+// let currentStatus ="watching Netfilix";
+// currentStatus="relaxing at the Beach";
+// console.log(currentStatus);
+// currentStatus = "reading";
+// console.log(currentStatus);
+
+// let defaultStatus ="he therer";
+// let currentStatus="playing football";
+// currentStatus=defaultStatus;
+// console.log(currentStatus);
+
+
+
 
 
 
