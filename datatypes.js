@@ -255,6 +255,31 @@
 // currentStatus=defaultStatus;
 // console.log(currentStatus);
 
+// let currentStatus ="playing football";
+// console.log(currentStatus);
+// currentStatus = "walking the dog"
+// console.log(currentStatus);
+
+// const currentStatus= "watching netflix";
+// console.log(currentStatus);
+
+// let firstname ="lorei";
+// firstname="joe";
+// console.log(firstname);
+
+// let temperature ="0 degrees";
+// temperature = "100 degrees";
+// console.log(temperature);
+
+// let currentStatus = "dancing ";
+// currentStatus="writing code";
+// console.log(currentStatus);
+
+
+
+
+
+
 
 
 
