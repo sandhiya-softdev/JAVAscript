@@ -16,4 +16,10 @@
 //     i++;
 // }
 
+// var things=document.getElementsByClassName("good");
+// if(things.length%2==0){
+//     things.style.color="pink";
+// }else{
+//     things.textContent="gn"
+// }
 

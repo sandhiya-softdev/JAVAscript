@@ -60,6 +60,12 @@
 // lets[4].style.fontSize="30px";
 
 
+var on=document.getElementsByTagName("h1");
+on[0].style.color="pink"
+
+
+
+
 
 
 
