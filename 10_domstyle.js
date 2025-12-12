@@ -75,8 +75,11 @@
 // re.style.height="150px";
 // re.sstyle.background="pink";
 
-var things=document.getElementById("dom")
-console.log(things.textContent);
-things.textContent="Doument object model";
+// var things=document.getElementById("dom")
+// console.log(things.textContent);
+// things.textContent="Doument object model";
 
+var things=document.getElementById("btn");
+things.textContent="login";
+console.log(things.textcontent);
 
