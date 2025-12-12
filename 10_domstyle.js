@@ -79,7 +79,13 @@
 // console.log(things.textContent);
 // things.textContent="Doument object model";
 
-var things=document.getElementById("btn");
-things.textContent="login";
-console.log(things.textcontent);
+// var things=document.getElementById("btn");
+// things.textContent="login";
+// console.log(things.textcontent);
+
+var things=document.getElementById("hi");
+things.style.color="pink";
+console.log(things.textContent);
+
+
 
