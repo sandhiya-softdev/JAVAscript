@@ -82,3 +82,23 @@
 // let a;
 // console.log(a);
 // this is undefined because we don't give any value only declartion that'it
+
+
+// let a=10;
+// b=20;
+// console.log(a+b);
+
+
+// let a=30;
+// b=70;
+// console.log(b);
+
+// const things ="80";
+// console.log(things);
+
+// const things="things";
+// const things="hello";
+// console.log(things);
+
+
+

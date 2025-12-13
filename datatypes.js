@@ -276,6 +276,13 @@
 // console.log(currentStatus);
 
 
+// let companyName ="tcs";
+//  let foundingYear =2025;
+//  let isActice = true;
+//  let fundingAmount;
+//  console.log(companyName, foundingYear, isActice,fundingAmount);
+
+
 
 
 
