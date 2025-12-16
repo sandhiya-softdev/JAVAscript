@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+</head>
+<body>
+    <p id="Hello">Hello</p>
+
+    <script>
+      var engine = document.getElementById("Hello");
+
+      engine.addEventListener("click",()=>{
+        var engine1 = document.createElement("p");
+        engine1.textContent="Hii i am sandhiya";
+        document.body.appendChild(engine1);
+      });
+
+    </script>
+</body>
+</html>
