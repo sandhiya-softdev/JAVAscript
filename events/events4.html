@@ -2,27 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Events</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
+    <p id="dhiya">HELLO</p>
 
-    <p id="text">this is small</p>
+    <script>
+       var things = document.getElementById("dhiya");
+       things.addEventListener("mouseover",()=>{
+         things.textContent="hii";
+       }
 
-<script>
-    var on = document.querySelector("#text");
+       
+      
 
-    on.addEventListener("mouseover", () => {
 
-        // already line irukka check
-        if (!document.querySelector("#newText")) {
-            var p = document.createElement("p");
-            p.id = "newText";
-            p.textContent = "this is me";
-            on.before(p); // மேல வரணும்னா
-            // on.after(p); // கீழ வரணும்னா
-        }
-    });
-</script>
-
+       )
+    
+    </script>
+    
 </body>
 </html>
