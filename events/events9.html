@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>onkeyup</title>
+</head>
+<body>
+    <input type="text" id="on1" onkeyup="fname()">
+    <p id="off"></p>
+
+
+    <script>
+      var things1 = document.getElementById("on1");
+      var things2 = document.getElementById("off");
+      
+
+      function fname(){
+        things2.textContent=things1.value;
+      }
+    </script>
+</body>
+</html>
