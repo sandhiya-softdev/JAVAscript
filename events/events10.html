@@ -6,7 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    <button>add button</button>
+    <button onclick="greet()">add button</button>
     
+
+
+    <script>
+        function greet(){
+            var things=document.createElement("h1");
+            things.textContent="hello";
+           document.body.appendChild(things);
+        }
+    </script>
 </body>
 </html>
