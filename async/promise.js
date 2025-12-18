@@ -5,3 +5,21 @@
 // parameter(resolve, reject)
 // if condition true ah irunthuchina resolve
 // other reject and with an error also
+
+
+let promise = new Promise((resolve,reject)=>{
+    if(homeworkDone){
+        resolve("success");
+        
+    }else{
+        reject("failed");
+    }
+
+});
+  promise
+    .then((result) => {
+      console.log(result);
+    })
+    .catch((error) => {
+      console.log(error);
+    });
