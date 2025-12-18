@@ -2,6 +2,8 @@
 // A javascript operator is a symbol or keyword that tells the computer to perform a
 // an operation on one or more vales.
 
+const { log } = require("async");
+
 // There are three operator
 // 1.arithmetic operator
 // 2.comparsion operator
@@ -335,6 +337,12 @@
 
 // let a;
 // console.log(a);
+
+
+let a =10;
+b=20;
+c=a+b;
+console.log(c);
 
 
 
