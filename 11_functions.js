@@ -135,8 +135,8 @@
 // }
 // helloUser("dhiya");
 
-// function double(num){
-//     console.log(num*2);
+function double(num){
+    console.log(num*2);
     
-// }
-// double(8);
+}
+double(8);

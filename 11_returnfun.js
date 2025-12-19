@@ -190,11 +190,11 @@
 // }
 // console.log(isAdult(20));
 
-// function cookies(brown,total){
-//     return brown*total;
+function cookies(brown,total){
+    return brown*total;
 
-// }
-// console.log(cookies(4,10));
+}
+console.log(cookies(4,10));
 
 
 
