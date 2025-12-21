@@ -339,10 +339,17 @@ const { log } = require("async");
 // console.log(a);
 
 
-let a =10;
-let b=20;
-let c=a+b;
-console.log(c);
+// let a =10;
+// let b=20;
+// let c=a+b;
+// console.log(c);
+
+
+let cost = 50;
+let sellPrice = 60;
+const profit = sellPrice-cost;
+console.log(profit);
+
 
 
 
