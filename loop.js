@@ -796,11 +796,29 @@
 
 // for in loops
 
-let car = {
-  brand: "BMW",
-  color: "Black",
-  price: 5000000
-};
+// let car = {
+//   brand: "BMW",
+//   color: "Black",
+//   price: 5000000
+// };
+// for (let key in car){
+//   console.log(key,car[key]);
+  
+
+// for of loops
+
+// let nums = [10,20,30];
+// for(let items of nums){
+//   console.log(items);
+  
+// }
+// let fname = "RAM";
+
+// for (let ch of fname) {
+//   console.log(ch);
+// }
+
+
 
 
 
