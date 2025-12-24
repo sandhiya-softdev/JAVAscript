@@ -788,8 +788,19 @@
 //     console.log(i);
 
 // }
-let a = 1; // initialization
+// let a = 1; // initialization
 
-for (a = 1; a <= 10; a++) {
-  console.log(a);
-}
+// for (a = 1; a <= 10; a++) {
+//   console.log(a);
+// }
+
+// for in loops
+
+let car = {
+  brand: "BMW",
+  color: "Black",
+  price: 5000000
+};
+
+
+
