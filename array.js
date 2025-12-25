@@ -124,11 +124,11 @@
 // console.log(sum);
 
 
-let sum = [11,12,13,14,15];
-let result = sum.reduce((acc,on)=>{
-    return acc + on;
-},0);
-console.log(result);
+// let sum = [11,12,13,14,15];
+// let result = sum.reduce((acc,on)=>{
+//     return acc + on;
+// },0);
+// console.log(result);
 
 
 

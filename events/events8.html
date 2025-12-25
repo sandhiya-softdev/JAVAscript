@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>onkeyup</title>
+  <meta charset="UTF-8">
+  <title>ADD EVENT LISTENER</title>
 </head>
 <body>
-    <input type="text" onkeyup="keyVit()">
 
-    <script>
-        function keyVit(){
-          alert("key vittu veliye vanthutinga")
-           
-        }
-    </script>
+  <button id="hi">button</button>
+
+  <script>
+    var things = document.getElementById("hi");
+
+    things.addEventListener("click", (event) => {
+      alert("hii");
+    });
+  </script>
+
 </body>
 </html>
