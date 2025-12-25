@@ -98,6 +98,41 @@
 // let hey = array.at(-2);
 // console.log(hey);
 
+// let a= [1,2,3,,4];
+// let b=a.includes(2);
+// console.log(b);
+
+// let a = [1,2,3,4];
+// let b=a.indexOf(2);
+// console.log(b);
+
+// let array = [1,2,3,4,5];
+// let b =array.map(function(c){
+//     return c+10
+// });
+// console.log(b);
+
+// let array = ["sandhiya"];
+
+// array.forEach(function(item) {
+//   console.log(item);
+// });
+
+
+// let arr = [1,2,3,4];
+// let sum = arr. reduce((a,b)=>a+b,0);
+// console.log(sum);
+
+
+let sum = [11,12,13,14,15];
+let result = sum.reduce((acc,on)=>{
+    return acc + on;
+},0);
+console.log(result);
+
+
+
+
 
 
 
