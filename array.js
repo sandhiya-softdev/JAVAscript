@@ -80,6 +80,30 @@
 
 
 
+// let milk = ["aroka","milkshake","banana","hello","hii","hr"];
+// milk.splice(1,3);
+// console.log(milk);
+
+
+// let arr =[1,2,3,4];
+// let part = arr.slice(1,3);
+// console.log(part);
+
+
+// let array = [1,2,3,4,5,6];
+// let hey=array.slice(1,3);
+// console.log(hey);
+
+// let array =[1,2,3,4,5];
+// let hey = array.at(-2);
+// console.log(hey);
+
+
+
+
+
+
+
 
 
 
