@@ -345,11 +345,16 @@ const { log } = require("async");
 // console.log(c);
 
 
-let cost = 50;
-let sellPrice = 60;
-const profit = sellPrice-cost;
-console.log(profit);
+// let cost = 50;
+// let sellPrice = 60;
+// const profit = sellPrice-cost;
+// console.log(profit);
 
+
+let x= 5;
+let y=10;
+c=x+y;
+console.log(c*2)
 
 
 
